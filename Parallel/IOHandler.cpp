@@ -124,7 +124,7 @@ IOHandler::IOHandler(int argc, char *argv[])
 		ParallelHandler::exit("Parameter -b (features of the input fingerprints) and -d (trained classifiers) must be provided together.", -1);
 	if(!classfiles.empty() && classfiles.size() != templatefiles.size())
 		ParallelHandler::exit("Parameters -t and -c must have the same number of files", -1);
-	if(!classfiles.empty() && strstr(argv[0], "DPDDFF") > 0)
+	if(!classfiles.empty() && strstr(argv[0], "DPDDFF") != NULL)
 		ParallelHandler::exit("Parameter -c is ignored when using double phase", -1);
 
 	// More default values
