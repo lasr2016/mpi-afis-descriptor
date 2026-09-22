@@ -1,0 +1,1 @@
+./mcc_identificar huella1.xyt lista.txt -N 8 -C LSSR
