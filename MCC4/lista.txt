@@ -1,3 +1,0 @@
-2
-huella1.bin
-huella2.bin

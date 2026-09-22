@@ -13,11 +13,26 @@ bool cargarMinucias(const string& rutaArchivo, Matrix<int>& M_xyt) {
         return false;
     }
 
-    int num_minucias;
+   /* int num_minucias;
     if (!(archivo >> num_minucias) || num_minucias <= 0) {
         cerr << "Error: Cantidad de minucias invalida en: " << rutaArchivo << endl;
         return false;
+    } */
+
+   // 1. Contar cuántas líneas hay en una sola instrucción
+    int num_minucias = count(istreambuf_iterator<char>(archivo), istreambuf_iterator<char>(), '\n');
+
+    if (num_minucias <= 0) {
+        cerr << "Error: Archivo vacio o sin saltos de linea." << endl;
+        return false;
     }
+
+    cout << "Numero Minucias: " << num_minucias << endl;
+       
+
+    // 2. Rebobinar el archivo al inicio (byte 0) y limpiar flags
+    archivo.clear();
+    archivo.seekg(0, ios::beg);
 
     M_xyt.resize(num_minucias, 3);
     int num;
