@@ -8,43 +8,26 @@ using namespace std;
 // Función para leer las coordenadas de minucias desde el archivo de texto
 bool cargarMinucias(const string& rutaArchivo, Matrix<int>& M_xyt) {
     ifstream archivo(rutaArchivo.c_str());
-    if (!archivo.is_open()) {
-        cerr << "Error: No se pudo abrir el archivo de entrada: " << rutaArchivo << endl;
-        return false;
+    if (!archivo.is_open()) return false;
+
+    vector<vector<int>> filas;
+    int x, y, t, calidad;
+
+    while (archivo >> x >> y >> t >> calidad) {
+        filas.push_back({x, y, t});
     }
 
-   /* int num_minucias;
-    if (!(archivo >> num_minucias) || num_minucias <= 0) {
-        cerr << "Error: Cantidad de minucias invalida en: " << rutaArchivo << endl;
-        return false;
-    } */
+    if (filas.empty()) return false;
 
-   // 1. Contar cuántas líneas hay en una sola instrucción
-    int num_minucias = count(istreambuf_iterator<char>(archivo), istreambuf_iterator<char>(), '\n');
+    cout << "Numero Minucias: " << filas.size() << endl;
 
-    if (num_minucias <= 0) {
-        cerr << "Error: Archivo vacio o sin saltos de linea." << endl;
-        return false;
+    M_xyt.resize(filas.size(), 3);
+    for (size_t i = 0; i < filas.size(); i++) {
+        M_xyt[i][0] = filas[i][0];
+        M_xyt[i][1] = filas[i][1];
+        M_xyt[i][2] = filas[i][2];
     }
 
-    cout << "Numero Minucias: " << num_minucias << endl;
-       
-
-    // 2. Rebobinar el archivo al inicio (byte 0) y limpiar flags
-    archivo.clear();
-    archivo.seekg(0, ios::beg);
-
-    M_xyt.resize(num_minucias, 3);
-    int num;
-    for (int i = 0; i < num_minucias; i++) {
-        for (int j = 0; j < 4; j++) {
-            archivo >> num;
-            if (j < 3)
-                M_xyt[i][j] = num;
-        }
-    }
-
-    archivo.close();
     return true;
 }
 

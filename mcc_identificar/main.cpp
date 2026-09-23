@@ -5,41 +5,28 @@
 
 using namespace std;
 
-// Función para leer minucias de texto de la huella a consultar
 bool cargarMinucias(const string& rutaArchivo, Matrix<int>& M_xyt) {
     ifstream archivo(rutaArchivo.c_str());
     if (!archivo.is_open()) return false;
 
-   /* int num_minucias;
-    if (!(archivo >> num_minucias) || num_minucias <= 0) return false;
-       cout << "CANTIDAD DE MINUCIAS!" << num_minucias << endl;
-*/
+    vector<vector<int>> filas;
+    int x, y, t, calidad;
 
-// 1. Contar cuántas líneas hay en una sola instrucción
-    int num_minucias = count(istreambuf_iterator<char>(archivo), istreambuf_iterator<char>(), '\n');
-
-    if (num_minucias <= 0) {
-        cerr << "Error: Archivo vacio o sin saltos de linea." << endl;
-        return false;
+    while (archivo >> x >> y >> t >> calidad) {
+        filas.push_back({x, y, t});
     }
 
-    cout << "Numero Minucias: " << num_minucias << endl;
-       
+    if (filas.empty()) return false;
 
-    // 2. Rebobinar el archivo al inicio (byte 0) y limpiar flags
-    archivo.clear();
-    archivo.seekg(0, ios::beg);
+    cout << "Numero Minucias: " << filas.size() << endl;
 
-    //3 validar
-    M_xyt.resize(num_minucias, 3);
-    int num;
-    for (int i = 0; i < num_minucias; i++) {
-        for (int j = 0; j < 4; j++) {
-            archivo >> num;
-            if (j < 3)
-                M_xyt[i][j] = num;
-        }
+    M_xyt.resize(filas.size(), 3);
+    for (size_t i = 0; i < filas.size(); i++) {
+        M_xyt[i][0] = filas[i][0];
+        M_xyt[i][1] = filas[i][1];
+        M_xyt[i][2] = filas[i][2];
     }
+
     return true;
 }
 
