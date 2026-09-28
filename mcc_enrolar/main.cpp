@@ -1,7 +1,10 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <vector>
+#include <cstdio>
 #include "MCC.h"
+
 
 using namespace std;
 
@@ -55,6 +58,9 @@ int main(int argc, char* argv[]) {
     // 2. Instanciar y transformar a cilindros 3D
     MCC huella(matrizMinucias);
     huella.initialize();
+
+    // Eliminar archivo previo si existe (para evitar que writeCylinder haga append)
+    remove(ruta_salida.c_str());
 
     // 3. Guardar el descriptor precalculado en archivo binario
     huella.writeCylinder(ruta_salida);
