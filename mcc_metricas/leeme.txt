@@ -1,0 +1,7 @@
+
+./mcc_enrolar huella2.xyt huella2.bin -N 8 -C LSSR
+
+mover archivo bin a la carpeta mcc_identificar
+
+cp mcc_enrolar/huella2.bin mcc_identificar/
+
