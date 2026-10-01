@@ -75,15 +75,29 @@ int main(int argc, char* argv[]) {
     auto fin_init = chrono::high_resolution_clock::now();
 
     chrono::duration<double, milli> tiempoInitialize = fin_init - inicio_init;
-    cout << "Tiempo de initialize() (cómputo del descriptor): " << tiempoInitialize.count() << " ms" << endl;
+    cout << "Tiempo descriptor (initialize): " << tiempoInitialize.count() << " ms" << endl;
     // ---- Fin medición initialize ----
 
     // Eliminar archivo previo si existe (para evitar que writeCylinder haga append)
     remove(ruta_salida.c_str());
 
-    // 3. Guardar el descriptor precalculado en archivo binario
+    // 3. Guardar el descriptor precalculado en archivo binario 
+    
+    // ---- Medición del tiempo de escritura del .bin ----
+    auto inicio_escritura = chrono::high_resolution_clock::now();
     huella.writeCylinder(ruta_salida);
-
+    auto fin_escritura = chrono::high_resolution_clock::now();
+    
+    chrono::duration<double, milli> tiempoEscritura = fin_escritura - inicio_escritura;
+    cout << "Tiempo de escritura del descriptor (.bin): " << tiempoEscritura.count() << " ms" << endl;
+    // ---- Fin medición escritura ----
+    
+    
+    // ---- Suma total de todas las etapas ----
+    double tiempoTotal = tiempoLectura.count() + tiempoInitialize.count() + tiempoEscritura.count();
+    cout << "TOTAL: " << tiempoTotal << " ms" << endl;
+    // ---- Fin suma total ----
+    
     cout << "Descriptor guardado exitosamente en: " << ruta_salida << endl;
 
     return 0;
