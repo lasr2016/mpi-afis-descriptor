@@ -70,7 +70,7 @@ int main(int argc, char* argv[]) {
 
     float ultimoPuntaje = 0;
     for (int i = 0; i < NUM_ITERACIONES; i++) {
-        ultimoPuntaje = huella1.match(huella2);
+        ultimoPuntaje = huella1.match(huella2);       
     }
 
     auto fin = chrono::high_resolution_clock::now();
