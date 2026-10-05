@@ -1,6 +1,6 @@
 /**
  * \file    MCC.cpp
- * \author  Salvador García <sglopez@ujaen.es>
+ * \author  Salvador Garcï¿½a <sglopez@ujaen.es>
  * \version 1.0
  *
  * \section DESCRIPTION
@@ -651,7 +651,7 @@ void MCC::loadCylinder(string name){
     float auxF;
 
 
-	cerr << "Leyendo cilindro" << endl;
+	//cerr << "Leyendo cilindro" << endl;
 
     reader.open(name.c_str(), fstream::binary);
     if (!reader.is_open())
@@ -719,7 +719,7 @@ void MCC::loadCylinder(string name){
 	}  // endfor
 
 		//cout << cylinders[22];
-	cout << "Fin lectura = " << (int)cylinders.size() << endl;
+	//cout << "Fin lectura = " << (int)cylinders.size() << endl;
 
     reader.close();
 }
@@ -892,7 +892,7 @@ void MCC::initialize()
 	else
 		computeCylinders();
 
-    //Esta función compactCylinders elimina los cilindros no validos
+    //Esta funciï¿½n compactCylinders elimina los cilindros no validos
 	//compactCylinders();
 }
 

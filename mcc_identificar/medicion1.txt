@@ -1,0 +1,2007 @@
+Numero Minucias: 74
+Comparando huella de entrada contra 1000 descriptores...
+Fin lectura = 58
+Evaluando [huellasbin/huella1000.bin] -> Score: 0.0197625
+Fin lectura = 64
+Evaluando [huellasbin/huella100.bin] -> Score: 0.0192789
+Fin lectura = 53
+Evaluando [huellasbin/huella101.bin] -> Score: 0.0216164
+Fin lectura = 47
+Evaluando [huellasbin/huella102.bin] -> Score: 0.0210829
+Fin lectura = 42
+Evaluando [huellasbin/huella103.bin] -> Score: 0.0151345
+Fin lectura = 43
+Evaluando [huellasbin/huella104.bin] -> Score: 0.0165948
+Fin lectura = 66
+Evaluando [huellasbin/huella105.bin] -> Score: 0.0208049
+Fin lectura = 68
+Evaluando [huellasbin/huella106.bin] -> Score: 0.0203774
+Fin lectura = 58
+Evaluando [huellasbin/huella107.bin] -> Score: 0.0156598
+Fin lectura = 57
+Evaluando [huellasbin/huella108.bin] -> Score: 0.0164017
+Fin lectura = 41
+Evaluando [huellasbin/huella109.bin] -> Score: 0.0176227
+Fin lectura = 38
+Evaluando [huellasbin/huella10.bin] -> Score: 0.0156368
+Fin lectura = 41
+Evaluando [huellasbin/huella110.bin] -> Score: 0.0170741
+Fin lectura = 42
+Evaluando [huellasbin/huella111.bin] -> Score: 0.017821
+Fin lectura = 62
+Evaluando [huellasbin/huella112.bin] -> Score: 0.019269
+Fin lectura = 65
+Evaluando [huellasbin/huella113.bin] -> Score: 0.0182602
+Fin lectura = 58
+Evaluando [huellasbin/huella114.bin] -> Score: 0.0185759
+Fin lectura = 57
+Evaluando [huellasbin/huella115.bin] -> Score: 0.0196061
+Fin lectura = 46
+Evaluando [huellasbin/huella116.bin] -> Score: 0.0174938
+Fin lectura = 41
+Evaluando [huellasbin/huella117.bin] -> Score: 0.0178929
+Fin lectura = 51
+Evaluando [huellasbin/huella118.bin] -> Score: 0.0203889
+Fin lectura = 46
+Evaluando [huellasbin/huella119.bin] -> Score: 0.0180822
+Fin lectura = 75
+Evaluando [huellasbin/huella11.bin] -> Score: 0.0181155
+Fin lectura = 48
+Evaluando [huellasbin/huella120.bin] -> Score: 0.0182698
+Fin lectura = 50
+Evaluando [huellasbin/huella121.bin] -> Score: 0.0167471
+Fin lectura = 50
+Evaluando [huellasbin/huella122.bin] -> Score: 0.0176449
+Fin lectura = 44
+Evaluando [huellasbin/huella123.bin] -> Score: 0.0181118
+Fin lectura = 46
+Evaluando [huellasbin/huella124.bin] -> Score: 0.0170568
+Fin lectura = 65
+Evaluando [huellasbin/huella125.bin] -> Score: 0.0179514
+Fin lectura = 58
+Evaluando [huellasbin/huella126.bin] -> Score: 0.0187238
+Fin lectura = 44
+Evaluando [huellasbin/huella127.bin] -> Score: 0.0184171
+Fin lectura = 46
+Evaluando [huellasbin/huella128.bin] -> Score: 0.0179482
+Fin lectura = 49
+Evaluando [huellasbin/huella129.bin] -> Score: 0.0207997
+Fin lectura = 71
+Evaluando [huellasbin/huella12.bin] -> Score: 0.0181225
+Fin lectura = 48
+Evaluando [huellasbin/huella130.bin] -> Score: 0.0227395
+Fin lectura = 41
+Evaluando [huellasbin/huella131.bin] -> Score: 0.0160051
+Fin lectura = 48
+Evaluando [huellasbin/huella132.bin] -> Score: 0.0170215
+Fin lectura = 92
+Evaluando [huellasbin/huella133.bin] -> Score: 0.0167644
+Fin lectura = 82
+Evaluando [huellasbin/huella134.bin] -> Score: 0.0173701
+Fin lectura = 44
+Evaluando [huellasbin/huella135.bin] -> Score: 0.0165471
+Fin lectura = 45
+Evaluando [huellasbin/huella136.bin] -> Score: 0.0189781
+Fin lectura = 52
+Evaluando [huellasbin/huella137.bin] -> Score: 0.0158628
+Fin lectura = 43
+Evaluando [huellasbin/huella138.bin] -> Score: 0.0179511
+Fin lectura = 54
+Evaluando [huellasbin/huella139.bin] -> Score: 0.0157437
+Fin lectura = 66
+Evaluando [huellasbin/huella13.bin] -> Score: 0.0170533
+Fin lectura = 58
+Evaluando [huellasbin/huella140.bin] -> Score: 0.0172781
+Fin lectura = 49
+Evaluando [huellasbin/huella141.bin] -> Score: 0.0175506
+Fin lectura = 53
+Evaluando [huellasbin/huella142.bin] -> Score: 0.0161354
+Fin lectura = 45
+Evaluando [huellasbin/huella143.bin] -> Score: 0.0185677
+Fin lectura = 51
+Evaluando [huellasbin/huella144.bin] -> Score: 0.0166286
+Fin lectura = 65
+Evaluando [huellasbin/huella145.bin] -> Score: 0.0210449
+Fin lectura = 40
+Evaluando [huellasbin/huella146.bin] -> Score: 0.0161441
+Fin lectura = 44
+Evaluando [huellasbin/huella147.bin] -> Score: 0.0157804
+Fin lectura = 62
+Evaluando [huellasbin/huella148.bin] -> Score: 0.0222479
+Fin lectura = 63
+Evaluando [huellasbin/huella149.bin] -> Score: 0.0214706
+Fin lectura = 63
+Evaluando [huellasbin/huella14.bin] -> Score: 0.0159338
+Fin lectura = 55
+Evaluando [huellasbin/huella150.bin] -> Score: 0.01732
+Fin lectura = 73
+Evaluando [huellasbin/huella151.bin] -> Score: 0.0187239
+Fin lectura = 69
+Evaluando [huellasbin/huella152.bin] -> Score: 0.0174408
+Fin lectura = 53
+Evaluando [huellasbin/huella153.bin] -> Score: 0.0195721
+Fin lectura = 45
+Evaluando [huellasbin/huella154.bin] -> Score: 0.0164786
+Fin lectura = 58
+Evaluando [huellasbin/huella155.bin] -> Score: 0.0191635
+Fin lectura = 63
+Evaluando [huellasbin/huella156.bin] -> Score: 0.0200087
+Fin lectura = 32
+Evaluando [huellasbin/huella157.bin] -> Score: 0.0197453
+Fin lectura = 34
+Evaluando [huellasbin/huella158.bin] -> Score: 0.0171503
+Fin lectura = 71
+Evaluando [huellasbin/huella159.bin] -> Score: 0.0193886
+Fin lectura = 49
+Evaluando [huellasbin/huella15.bin] -> Score: 0.0189518
+Fin lectura = 61
+Evaluando [huellasbin/huella160.bin] -> Score: 0.0198616
+Fin lectura = 79
+Evaluando [huellasbin/huella161.bin] -> Score: 0.0207122
+Fin lectura = 81
+Evaluando [huellasbin/huella162.bin] -> Score: 0.0186866
+Fin lectura = 61
+Evaluando [huellasbin/huella163.bin] -> Score: 0.0154694
+Fin lectura = 45
+Evaluando [huellasbin/huella164.bin] -> Score: 0.0151854
+Fin lectura = 74
+Evaluando [huellasbin/huella165.bin] -> Score: 0.0157914
+Fin lectura = 76
+Evaluando [huellasbin/huella166.bin] -> Score: 0.0170319
+Fin lectura = 30
+Evaluando [huellasbin/huella167.bin] -> Score: 0.0184643
+Fin lectura = 30
+Evaluando [huellasbin/huella168.bin] -> Score: 0.0220621
+Fin lectura = 74
+Evaluando [huellasbin/huella169.bin] -> Score: 0.019901
+Fin lectura = 48
+Evaluando [huellasbin/huella16.bin] -> Score: 0.0172628
+Fin lectura = 76
+Evaluando [huellasbin/huella170.bin] -> Score: 0.0202672
+Fin lectura = 61
+Evaluando [huellasbin/huella171.bin] -> Score: 0.0174497
+Fin lectura = 74
+Evaluando [huellasbin/huella172.bin] -> Score: 0.0174457
+Fin lectura = 75
+Evaluando [huellasbin/huella173.bin] -> Score: 0.0215377
+Fin lectura = 74
+Evaluando [huellasbin/huella174.bin] -> Score: 0.0215181
+Fin lectura = 50
+Evaluando [huellasbin/huella175.bin] -> Score: 0.0159656
+Fin lectura = 86
+Evaluando [huellasbin/huella176.bin] -> Score: 0.0171291
+Fin lectura = 76
+Evaluando [huellasbin/huella177.bin] -> Score: 0.0173657
+Fin lectura = 57
+Evaluando [huellasbin/huella178.bin] -> Score: 0.0164009
+Fin lectura = 52
+Evaluando [huellasbin/huella179.bin] -> Score: 0.0174094
+Fin lectura = 73
+Evaluando [huellasbin/huella17.bin] -> Score: 0.0184157
+Fin lectura = 65
+Evaluando [huellasbin/huella180.bin] -> Score: 0.0190361
+Fin lectura = 68
+Evaluando [huellasbin/huella181.bin] -> Score: 0.0202305
+Fin lectura = 55
+Evaluando [huellasbin/huella182.bin] -> Score: 0.0166718
+Fin lectura = 49
+Evaluando [huellasbin/huella183.bin] -> Score: 0.0187094
+Fin lectura = 43
+Evaluando [huellasbin/huella184.bin] -> Score: 0.0167493
+Fin lectura = 80
+Evaluando [huellasbin/huella185.bin] -> Score: 0.0185619
+Fin lectura = 49
+Evaluando [huellasbin/huella186.bin] -> Score: 0.020801
+Fin lectura = 47
+Evaluando [huellasbin/huella187.bin] -> Score: 0.0175548
+Fin lectura = 61
+Evaluando [huellasbin/huella188.bin] -> Score: 0.0162323
+Fin lectura = 57
+Evaluando [huellasbin/huella189.bin] -> Score: 0.0168352
+Fin lectura = 71
+Evaluando [huellasbin/huella18.bin] -> Score: 0.0185724
+Fin lectura = 51
+Evaluando [huellasbin/huella190.bin] -> Score: 0.0234995
+Fin lectura = 55
+Evaluando [huellasbin/huella191.bin] -> Score: 0.0189636
+Fin lectura = 60
+Evaluando [huellasbin/huella192.bin] -> Score: 0.017116
+Fin lectura = 55
+Evaluando [huellasbin/huella193.bin] -> Score: 0.0177578
+Fin lectura = 57
+Evaluando [huellasbin/huella194.bin] -> Score: 0.0159441
+Fin lectura = 53
+Evaluando [huellasbin/huella195.bin] -> Score: 0.0160049
+Fin lectura = 57
+Evaluando [huellasbin/huella196.bin] -> Score: 0.0201656
+Fin lectura = 61
+Evaluando [huellasbin/huella197.bin] -> Score: 0.021854
+Fin lectura = 46
+Evaluando [huellasbin/huella198.bin] -> Score: 0.0160031
+Fin lectura = 48
+Evaluando [huellasbin/huella199.bin] -> Score: 0.0191736
+Fin lectura = 44
+Evaluando [huellasbin/huella19.bin] -> Score: 0.0186312
+Fin lectura = 74
+Evaluando [huellasbin/huella1.bin] -> Score: 0.997226
+Fin lectura = 56
+Evaluando [huellasbin/huella200.bin] -> Score: 0.0205417
+Fin lectura = 79
+Evaluando [huellasbin/huella201.bin] -> Score: 0.0156457
+Fin lectura = 79
+Evaluando [huellasbin/huella202.bin] -> Score: 0.0183229
+Fin lectura = 80
+Evaluando [huellasbin/huella203.bin] -> Score: 0.0180558
+Fin lectura = 65
+Evaluando [huellasbin/huella204.bin] -> Score: 0.0172234
+Fin lectura = 63
+Evaluando [huellasbin/huella205.bin] -> Score: 0.0180939
+Fin lectura = 65
+Evaluando [huellasbin/huella206.bin] -> Score: 0.0188673
+Fin lectura = 64
+Evaluando [huellasbin/huella207.bin] -> Score: 0.0167035
+Fin lectura = 70
+Evaluando [huellasbin/huella208.bin] -> Score: 0.0217197
+Fin lectura = 66
+Evaluando [huellasbin/huella209.bin] -> Score: 0.0162625
+Fin lectura = 46
+Evaluando [huellasbin/huella20.bin] -> Score: 0.0171497
+Fin lectura = 62
+Evaluando [huellasbin/huella210.bin] -> Score: 0.0169052
+Fin lectura = 53
+Evaluando [huellasbin/huella211.bin] -> Score: 0.0174251
+Fin lectura = 72
+Evaluando [huellasbin/huella212.bin] -> Score: 0.0188306
+Fin lectura = 85
+Evaluando [huellasbin/huella213.bin] -> Score: 0.0192118
+Fin lectura = 84
+Evaluando [huellasbin/huella214.bin] -> Score: 0.0193994
+Fin lectura = 66
+Evaluando [huellasbin/huella215.bin] -> Score: 0.0175487
+Fin lectura = 68
+Evaluando [huellasbin/huella216.bin] -> Score: 0.0214593
+Fin lectura = 50
+Evaluando [huellasbin/huella217.bin] -> Score: 0.0177024
+Fin lectura = 60
+Evaluando [huellasbin/huella218.bin] -> Score: 0.0179721
+Fin lectura = 77
+Evaluando [huellasbin/huella219.bin] -> Score: 0.0162406
+Fin lectura = 56
+Evaluando [huellasbin/huella21.bin] -> Score: 0.019623
+Fin lectura = 67
+Evaluando [huellasbin/huella220.bin] -> Score: 0.0183825
+Fin lectura = 59
+Evaluando [huellasbin/huella221.bin] -> Score: 0.0162204
+Fin lectura = 44
+Evaluando [huellasbin/huella222.bin] -> Score: 0.0154847
+Fin lectura = 62
+Evaluando [huellasbin/huella223.bin] -> Score: 0.0186413
+Fin lectura = 64
+Evaluando [huellasbin/huella224.bin] -> Score: 0.0174187
+Fin lectura = 44
+Evaluando [huellasbin/huella225.bin] -> Score: 0.0171784
+Fin lectura = 48
+Evaluando [huellasbin/huella226.bin] -> Score: 0.0165066
+Fin lectura = 56
+Evaluando [huellasbin/huella227.bin] -> Score: 0.0161516
+Fin lectura = 80
+Evaluando [huellasbin/huella228.bin] -> Score: 0.0169233
+Fin lectura = 76
+Evaluando [huellasbin/huella229.bin] -> Score: 0.0155457
+Fin lectura = 54
+Evaluando [huellasbin/huella22.bin] -> Score: 0.0198806
+Fin lectura = 53
+Evaluando [huellasbin/huella230.bin] -> Score: 0.0177744
+Fin lectura = 55
+Evaluando [huellasbin/huella231.bin] -> Score: 0.0167574
+Fin lectura = 44
+Evaluando [huellasbin/huella232.bin] -> Score: 0.0215325
+Fin lectura = 51
+Evaluando [huellasbin/huella233.bin] -> Score: 0.0201439
+Fin lectura = 49
+Evaluando [huellasbin/huella234.bin] -> Score: 0.0229759
+Fin lectura = 52
+Evaluando [huellasbin/huella235.bin] -> Score: 0.0179068
+Fin lectura = 50
+Evaluando [huellasbin/huella236.bin] -> Score: 0.0217645
+Fin lectura = 65
+Evaluando [huellasbin/huella237.bin] -> Score: 0.0195372
+Fin lectura = 62
+Evaluando [huellasbin/huella238.bin] -> Score: 0.0180974
+Fin lectura = 51
+Evaluando [huellasbin/huella239.bin] -> Score: 0.0170671
+Fin lectura = 46
+Evaluando [huellasbin/huella23.bin] -> Score: 0.0187647
+Fin lectura = 56
+Evaluando [huellasbin/huella240.bin] -> Score: 0.0188532
+Fin lectura = 38
+Evaluando [huellasbin/huella241.bin] -> Score: 0.0201518
+Fin lectura = 33
+Evaluando [huellasbin/huella242.bin] -> Score: 0.020441
+Fin lectura = 62
+Evaluando [huellasbin/huella243.bin] -> Score: 0.0183394
+Fin lectura = 73
+Evaluando [huellasbin/huella244.bin] -> Score: 0.0176732
+Fin lectura = 68
+Evaluando [huellasbin/huella245.bin] -> Score: 0.0173654
+Fin lectura = 71
+Evaluando [huellasbin/huella246.bin] -> Score: 0.0251188
+Fin lectura = 65
+Evaluando [huellasbin/huella247.bin] -> Score: 0.0194715
+Fin lectura = 52
+Evaluando [huellasbin/huella248.bin] -> Score: 0.0195335
+Fin lectura = 49
+Evaluando [huellasbin/huella249.bin] -> Score: 0.015582
+Fin lectura = 52
+Evaluando [huellasbin/huella24.bin] -> Score: 0.0186047
+Fin lectura = 49
+Evaluando [huellasbin/huella250.bin] -> Score: 0.0156203
+Fin lectura = 57
+Evaluando [huellasbin/huella251.bin] -> Score: 0.0164469
+Fin lectura = 56
+Evaluando [huellasbin/huella252.bin] -> Score: 0.0155931
+Fin lectura = 46
+Evaluando [huellasbin/huella253.bin] -> Score: 0.020563
+Fin lectura = 47
+Evaluando [huellasbin/huella254.bin] -> Score: 0.0189756
+Fin lectura = 73
+Evaluando [huellasbin/huella255.bin] -> Score: 0.0174497
+Fin lectura = 60
+Evaluando [huellasbin/huella256.bin] -> Score: 0.0225212
+Fin lectura = 35
+Evaluando [huellasbin/huella257.bin] -> Score: 0.0157489
+Fin lectura = 37
+Evaluando [huellasbin/huella258.bin] -> Score: 0.0161248
+Fin lectura = 66
+Evaluando [huellasbin/huella259.bin] -> Score: 0.0159853
+Fin lectura = 45
+Evaluando [huellasbin/huella25.bin] -> Score: 0.0205534
+Fin lectura = 64
+Evaluando [huellasbin/huella260.bin] -> Score: 0.0178038
+Fin lectura = 71
+Evaluando [huellasbin/huella261.bin] -> Score: 0.0231884
+Fin lectura = 70
+Evaluando [huellasbin/huella262.bin] -> Score: 0.0227839
+Fin lectura = 45
+Evaluando [huellasbin/huella263.bin] -> Score: 0.0159567
+Fin lectura = 42
+Evaluando [huellasbin/huella264.bin] -> Score: 0.0165258
+Fin lectura = 67
+Evaluando [huellasbin/huella265.bin] -> Score: 0.0170691
+Fin lectura = 53
+Evaluando [huellasbin/huella266.bin] -> Score: 0.0191684
+Fin lectura = 52
+Evaluando [huellasbin/huella267.bin] -> Score: 0.0202969
+Fin lectura = 53
+Evaluando [huellasbin/huella268.bin] -> Score: 0.0201289
+Fin lectura = 36
+Evaluando [huellasbin/huella269.bin] -> Score: 0.0215347
+Fin lectura = 46
+Evaluando [huellasbin/huella26.bin] -> Score: 0.0186725
+Fin lectura = 38
+Evaluando [huellasbin/huella270.bin] -> Score: 0.0201954
+Fin lectura = 80
+Evaluando [huellasbin/huella271.bin] -> Score: 0.015639
+Fin lectura = 60
+Evaluando [huellasbin/huella272.bin] -> Score: 0.017898
+Fin lectura = 62
+Evaluando [huellasbin/huella273.bin] -> Score: 0.017447
+Fin lectura = 36
+Evaluando [huellasbin/huella274.bin] -> Score: 0.0165522
+Fin lectura = 31
+Evaluando [huellasbin/huella275.bin] -> Score: 0.0212152
+Fin lectura = 64
+Evaluando [huellasbin/huella276.bin] -> Score: 0.0179841
+Fin lectura = 64
+Evaluando [huellasbin/huella277.bin] -> Score: 0.0177403
+Fin lectura = 40
+Evaluando [huellasbin/huella278.bin] -> Score: 0.0190578
+Fin lectura = 45
+Evaluando [huellasbin/huella279.bin] -> Score: 0.017991
+Fin lectura = 61
+Evaluando [huellasbin/huella27.bin] -> Score: 0.0160017
+Fin lectura = 59
+Evaluando [huellasbin/huella280.bin] -> Score: 0.0195468
+Fin lectura = 54
+Evaluando [huellasbin/huella281.bin] -> Score: 0.0214231
+Fin lectura = 49
+Evaluando [huellasbin/huella282.bin] -> Score: 0.0169563
+Fin lectura = 49
+Evaluando [huellasbin/huella283.bin] -> Score: 0.0165894
+Fin lectura = 51
+Evaluando [huellasbin/huella284.bin] -> Score: 0.0163205
+Fin lectura = 46
+Evaluando [huellasbin/huella285.bin] -> Score: 0.0188508
+Fin lectura = 58
+Evaluando [huellasbin/huella286.bin] -> Score: 0.0187965
+Fin lectura = 56
+Evaluando [huellasbin/huella287.bin] -> Score: 0.0158438
+Fin lectura = 50
+Evaluando [huellasbin/huella288.bin] -> Score: 0.0207606
+Fin lectura = 37
+Evaluando [huellasbin/huella289.bin] -> Score: 0.0196523
+Fin lectura = 66
+Evaluando [huellasbin/huella28.bin] -> Score: 0.015929
+Fin lectura = 57
+Evaluando [huellasbin/huella290.bin] -> Score: 0.0178602
+Fin lectura = 57
+Evaluando [huellasbin/huella291.bin] -> Score: 0.0191503
+Fin lectura = 77
+Evaluando [huellasbin/huella292.bin] -> Score: 0.0175212
+Fin lectura = 45
+Evaluando [huellasbin/huella293.bin] -> Score: 0.0178977
+Fin lectura = 47
+Evaluando [huellasbin/huella294.bin] -> Score: 0.0178674
+Fin lectura = 32
+Evaluando [huellasbin/huella295.bin] -> Score: 0.0160034
+Fin lectura = 31
+Evaluando [huellasbin/huella296.bin] -> Score: 0.0178205
+Fin lectura = 53
+Evaluando [huellasbin/huella297.bin] -> Score: 0.0154431
+Fin lectura = 53
+Evaluando [huellasbin/huella298.bin] -> Score: 0.0204231
+Fin lectura = 59
+Evaluando [huellasbin/huella299.bin] -> Score: 0.020155
+Fin lectura = 68
+Evaluando [huellasbin/huella29.bin] -> Score: 0.0159207
+Fin lectura = 65
+Evaluando [huellasbin/huella2.bin] -> Score: 0.0228991
+Fin lectura = 56
+Evaluando [huellasbin/huella300.bin] -> Score: 0.0192433
+Fin lectura = 58
+Evaluando [huellasbin/huella301.bin] -> Score: 0.0184017
+Fin lectura = 54
+Evaluando [huellasbin/huella302.bin] -> Score: 0.0180667
+Fin lectura = 48
+Evaluando [huellasbin/huella303.bin] -> Score: 0.017605
+Fin lectura = 50
+Evaluando [huellasbin/huella304.bin] -> Score: 0.0148465
+Fin lectura = 54
+Evaluando [huellasbin/huella305.bin] -> Score: 0.0156044
+Fin lectura = 57
+Evaluando [huellasbin/huella306.bin] -> Score: 0.0202168
+Fin lectura = 63
+Evaluando [huellasbin/huella307.bin] -> Score: 0.0178377
+Fin lectura = 43
+Evaluando [huellasbin/huella308.bin] -> Score: 0.0151679
+Fin lectura = 49
+Evaluando [huellasbin/huella309.bin] -> Score: 0.0151699
+Fin lectura = 61
+Evaluando [huellasbin/huella30.bin] -> Score: 0.0159757
+Fin lectura = 53
+Evaluando [huellasbin/huella310.bin] -> Score: 0.0156977
+Fin lectura = 60
+Evaluando [huellasbin/huella311.bin] -> Score: 0.0154926
+Fin lectura = 63
+Evaluando [huellasbin/huella312.bin] -> Score: 0.0176521
+Fin lectura = 51
+Evaluando [huellasbin/huella313.bin] -> Score: 0.0182116
+Fin lectura = 70
+Evaluando [huellasbin/huella314.bin] -> Score: 0.0179001
+Fin lectura = 73
+Evaluando [huellasbin/huella315.bin] -> Score: 0.0177577
+Fin lectura = 36
+Evaluando [huellasbin/huella316.bin] -> Score: 0.0188196
+Fin lectura = 45
+Evaluando [huellasbin/huella317.bin] -> Score: 0.0256227
+Fin lectura = 73
+Evaluando [huellasbin/huella318.bin] -> Score: 0.0170307
+Fin lectura = 83
+Evaluando [huellasbin/huella319.bin] -> Score: 0.0160504
+Fin lectura = 53
+Evaluando [huellasbin/huella31.bin] -> Score: 0.0177345
+Fin lectura = 67
+Evaluando [huellasbin/huella320.bin] -> Score: 0.0174389
+Fin lectura = 61
+Evaluando [huellasbin/huella321.bin] -> Score: 0.0177668
+Fin lectura = 71
+Evaluando [huellasbin/huella322.bin] -> Score: 0.0186086
+Fin lectura = 69
+Evaluando [huellasbin/huella323.bin] -> Score: 0.0182673
+Fin lectura = 37
+Evaluando [huellasbin/huella324.bin] -> Score: 0.0207463
+Fin lectura = 50
+Evaluando [huellasbin/huella325.bin] -> Score: 0.0160734
+Fin lectura = 53
+Evaluando [huellasbin/huella326.bin] -> Score: 0.0217049
+Fin lectura = 59
+Evaluando [huellasbin/huella327.bin] -> Score: 0.0195513
+Fin lectura = 49
+Evaluando [huellasbin/huella328.bin] -> Score: 0.0200758
+Fin lectura = 42
+Evaluando [huellasbin/huella329.bin] -> Score: 0.0168778
+Fin lectura = 59
+Evaluando [huellasbin/huella32.bin] -> Score: 0.0169621
+Fin lectura = 42
+Evaluando [huellasbin/huella330.bin] -> Score: 0.0204845
+Fin lectura = 57
+Evaluando [huellasbin/huella331.bin] -> Score: 0.0174041
+Fin lectura = 67
+Evaluando [huellasbin/huella332.bin] -> Score: 0.0184819
+Fin lectura = 51
+Evaluando [huellasbin/huella333.bin] -> Score: 0.016494
+Fin lectura = 52
+Evaluando [huellasbin/huella334.bin] -> Score: 0.0177902
+Fin lectura = 54
+Evaluando [huellasbin/huella335.bin] -> Score: 0.0203179
+Fin lectura = 60
+Evaluando [huellasbin/huella336.bin] -> Score: 0.0183264
+Fin lectura = 38
+Evaluando [huellasbin/huella337.bin] -> Score: 0.0160889
+Fin lectura = 46
+Evaluando [huellasbin/huella338.bin] -> Score: 0.0160571
+Fin lectura = 70
+Evaluando [huellasbin/huella339.bin] -> Score: 0.0184106
+Fin lectura = 63
+Evaluando [huellasbin/huella33.bin] -> Score: 0.0164378
+Fin lectura = 84
+Evaluando [huellasbin/huella340.bin] -> Score: 0.0167089
+Fin lectura = 60
+Evaluando [huellasbin/huella341.bin] -> Score: 0.0174511
+Fin lectura = 42
+Evaluando [huellasbin/huella342.bin] -> Score: 0.0172149
+Fin lectura = 50
+Evaluando [huellasbin/huella343.bin] -> Score: 0.0206033
+Fin lectura = 41
+Evaluando [huellasbin/huella344.bin] -> Score: 0.016612
+Fin lectura = 36
+Evaluando [huellasbin/huella345.bin] -> Score: 0.0171503
+Fin lectura = 66
+Evaluando [huellasbin/huella346.bin] -> Score: 0.0198663
+Fin lectura = 65
+Evaluando [huellasbin/huella347.bin] -> Score: 0.0181927
+Fin lectura = 58
+Evaluando [huellasbin/huella348.bin] -> Score: 0.0209655
+Fin lectura = 58
+Evaluando [huellasbin/huella349.bin] -> Score: 0.0179379
+Fin lectura = 44
+Evaluando [huellasbin/huella34.bin] -> Score: 0.017671
+Fin lectura = 44
+Evaluando [huellasbin/huella350.bin] -> Score: 0.0171551
+Fin lectura = 55
+Evaluando [huellasbin/huella351.bin] -> Score: 0.0161457
+Fin lectura = 51
+Evaluando [huellasbin/huella352.bin] -> Score: 0.0177108
+Fin lectura = 53
+Evaluando [huellasbin/huella353.bin] -> Score: 0.017444
+Fin lectura = 45
+Evaluando [huellasbin/huella354.bin] -> Score: 0.0161018
+Fin lectura = 72
+Evaluando [huellasbin/huella355.bin] -> Score: 0.0174495
+Fin lectura = 63
+Evaluando [huellasbin/huella356.bin] -> Score: 0.017541
+Fin lectura = 77
+Evaluando [huellasbin/huella357.bin] -> Score: 0.0175899
+Fin lectura = 81
+Evaluando [huellasbin/huella358.bin] -> Score: 0.0188294
+Fin lectura = 73
+Evaluando [huellasbin/huella359.bin] -> Score: 0.020232
+Fin lectura = 44
+Evaluando [huellasbin/huella35.bin] -> Score: 0.01671
+Fin lectura = 68
+Evaluando [huellasbin/huella360.bin] -> Score: 0.0192903
+Fin lectura = 45
+Evaluando [huellasbin/huella361.bin] -> Score: 0.0157591
+Fin lectura = 51
+Evaluando [huellasbin/huella362.bin] -> Score: 0.0156489
+Fin lectura = 52
+Evaluando [huellasbin/huella363.bin] -> Score: 0.0192117
+Fin lectura = 51
+Evaluando [huellasbin/huella364.bin] -> Score: 0.0173371
+Fin lectura = 58
+Evaluando [huellasbin/huella365.bin] -> Score: 0.0154507
+Fin lectura = 52
+Evaluando [huellasbin/huella366.bin] -> Score: 0.0167009
+Fin lectura = 72
+Evaluando [huellasbin/huella367.bin] -> Score: 0.0191537
+Fin lectura = 73
+Evaluando [huellasbin/huella368.bin] -> Score: 0.0198761
+Fin lectura = 75
+Evaluando [huellasbin/huella369.bin] -> Score: 0.0173819
+Fin lectura = 51
+Evaluando [huellasbin/huella36.bin] -> Score: 0.0170675
+Fin lectura = 70
+Evaluando [huellasbin/huella370.bin] -> Score: 0.0154044
+Fin lectura = 59
+Evaluando [huellasbin/huella371.bin] -> Score: 0.0155973
+Fin lectura = 54
+Evaluando [huellasbin/huella372.bin] -> Score: 0.0170392
+Fin lectura = 50
+Evaluando [huellasbin/huella373.bin] -> Score: 0.0165347
+Fin lectura = 65
+Evaluando [huellasbin/huella374.bin] -> Score: 0.0181153
+Fin lectura = 66
+Evaluando [huellasbin/huella375.bin] -> Score: 0.0196094
+Fin lectura = 59
+Evaluando [huellasbin/huella376.bin] -> Score: 0.0184401
+Fin lectura = 57
+Evaluando [huellasbin/huella377.bin] -> Score: 0.0162262
+Fin lectura = 57
+Evaluando [huellasbin/huella378.bin] -> Score: 0.0197842
+Fin lectura = 62
+Evaluando [huellasbin/huella379.bin] -> Score: 0.0241117
+Fin lectura = 50
+Evaluando [huellasbin/huella37.bin] -> Score: 0.0173412
+Fin lectura = 65
+Evaluando [huellasbin/huella380.bin] -> Score: 0.0207397
+Fin lectura = 63
+Evaluando [huellasbin/huella381.bin] -> Score: 0.018881
+Fin lectura = 57
+Evaluando [huellasbin/huella382.bin] -> Score: 0.0187365
+Fin lectura = 68
+Evaluando [huellasbin/huella383.bin] -> Score: 0.0156508
+Fin lectura = 69
+Evaluando [huellasbin/huella384.bin] -> Score: 0.017428
+Fin lectura = 58
+Evaluando [huellasbin/huella385.bin] -> Score: 0.020242
+Fin lectura = 52
+Evaluando [huellasbin/huella386.bin] -> Score: 0.0196496
+Fin lectura = 57
+Evaluando [huellasbin/huella387.bin] -> Score: 0.0212536
+Fin lectura = 54
+Evaluando [huellasbin/huella388.bin] -> Score: 0.0192212
+Fin lectura = 40
+Evaluando [huellasbin/huella389.bin] -> Score: 0.0173953
+Fin lectura = 63
+Evaluando [huellasbin/huella38.bin] -> Score: 0.0185754
+Fin lectura = 38
+Evaluando [huellasbin/huella390.bin] -> Score: 0.0185787
+Fin lectura = 55
+Evaluando [huellasbin/huella391.bin] -> Score: 0.015362
+Fin lectura = 50
+Evaluando [huellasbin/huella392.bin] -> Score: 0.0176485
+Fin lectura = 67
+Evaluando [huellasbin/huella393.bin] -> Score: 0.018369
+Fin lectura = 63
+Evaluando [huellasbin/huella394.bin] -> Score: 0.0187514
+Fin lectura = 51
+Evaluando [huellasbin/huella395.bin] -> Score: 0.0237389
+Fin lectura = 50
+Evaluando [huellasbin/huella396.bin] -> Score: 0.0187953
+Fin lectura = 54
+Evaluando [huellasbin/huella397.bin] -> Score: 0.0172105
+Fin lectura = 57
+Evaluando [huellasbin/huella398.bin] -> Score: 0.0182847
+Fin lectura = 49
+Evaluando [huellasbin/huella399.bin] -> Score: 0.0196081
+Fin lectura = 67
+Evaluando [huellasbin/huella39.bin] -> Score: 0.0199525
+Fin lectura = 62
+Evaluando [huellasbin/huella3.bin] -> Score: 0.0181255
+Fin lectura = 55
+Evaluando [huellasbin/huella400.bin] -> Score: 0.0204413
+Fin lectura = 62
+Evaluando [huellasbin/huella401.bin] -> Score: 0.0182016
+Fin lectura = 65
+Evaluando [huellasbin/huella402.bin] -> Score: 0.0172837
+Fin lectura = 25
+Evaluando [huellasbin/huella403.bin] -> Score: 0.0184135
+Fin lectura = 46
+Evaluando [huellasbin/huella404.bin] -> Score: 0.015568
+Fin lectura = 49
+Evaluando [huellasbin/huella405.bin] -> Score: 0.015379
+Fin lectura = 87
+Evaluando [huellasbin/huella406.bin] -> Score: 0.016642
+Fin lectura = 85
+Evaluando [huellasbin/huella407.bin] -> Score: 0.0166333
+Fin lectura = 48
+Evaluando [huellasbin/huella408.bin] -> Score: 0.0168483
+Fin lectura = 46
+Evaluando [huellasbin/huella409.bin] -> Score: 0.0161483
+Fin lectura = 73
+Evaluando [huellasbin/huella40.bin] -> Score: 0.0177101
+Fin lectura = 60
+Evaluando [huellasbin/huella410.bin] -> Score: 0.0225533
+Fin lectura = 57
+Evaluando [huellasbin/huella411.bin] -> Score: 0.0205986
+Fin lectura = 55
+Evaluando [huellasbin/huella412.bin] -> Score: 0.0205664
+Fin lectura = 46
+Evaluando [huellasbin/huella413.bin] -> Score: 0.0210413
+Fin lectura = 59
+Evaluando [huellasbin/huella414.bin] -> Score: 0.0169495
+Fin lectura = 64
+Evaluando [huellasbin/huella415.bin] -> Score: 0.0177429
+Fin lectura = 49
+Evaluando [huellasbin/huella416.bin] -> Score: 0.0217975
+Fin lectura = 49
+Evaluando [huellasbin/huella417.bin] -> Score: 0.0199812
+Fin lectura = 45
+Evaluando [huellasbin/huella418.bin] -> Score: 0.020125
+Fin lectura = 65
+Evaluando [huellasbin/huella419.bin] -> Score: 0.0173503
+Fin lectura = 77
+Evaluando [huellasbin/huella41.bin] -> Score: 0.0185955
+Fin lectura = 47
+Evaluando [huellasbin/huella420.bin] -> Score: 0.0185849
+Fin lectura = 76
+Evaluando [huellasbin/huella421.bin] -> Score: 0.0153932
+Fin lectura = 62
+Evaluando [huellasbin/huella422.bin] -> Score: 0.0178786
+Fin lectura = 49
+Evaluando [huellasbin/huella423.bin] -> Score: 0.0179094
+Fin lectura = 47
+Evaluando [huellasbin/huella424.bin] -> Score: 0.0154169
+Fin lectura = 61
+Evaluando [huellasbin/huella425.bin] -> Score: 0.0179058
+Fin lectura = 57
+Evaluando [huellasbin/huella426.bin] -> Score: 0.0179526
+Fin lectura = 69
+Evaluando [huellasbin/huella427.bin] -> Score: 0.016611
+Fin lectura = 44
+Evaluando [huellasbin/huella428.bin] -> Score: 0.0180076
+Fin lectura = 41
+Evaluando [huellasbin/huella429.bin] -> Score: 0.0165962
+Fin lectura = 44
+Evaluando [huellasbin/huella42.bin] -> Score: 0.0158025
+Fin lectura = 48
+Evaluando [huellasbin/huella430.bin] -> Score: 0.0174095
+Fin lectura = 48
+Evaluando [huellasbin/huella431.bin] -> Score: 0.018396
+Fin lectura = 45
+Evaluando [huellasbin/huella432.bin] -> Score: 0.0186488
+Fin lectura = 52
+Evaluando [huellasbin/huella433.bin] -> Score: 0.0185275
+Fin lectura = 51
+Evaluando [huellasbin/huella434.bin] -> Score: 0.0188896
+Fin lectura = 52
+Evaluando [huellasbin/huella435.bin] -> Score: 0.0187423
+Fin lectura = 72
+Evaluando [huellasbin/huella436.bin] -> Score: 0.0185437
+Fin lectura = 71
+Evaluando [huellasbin/huella437.bin] -> Score: 0.0172106
+Fin lectura = 35
+Evaluando [huellasbin/huella438.bin] -> Score: 0.0177486
+Fin lectura = 37
+Evaluando [huellasbin/huella439.bin] -> Score: 0.0190593
+Fin lectura = 42
+Evaluando [huellasbin/huella43.bin] -> Score: 0.0157532
+Fin lectura = 73
+Evaluando [huellasbin/huella440.bin] -> Score: 0.0181138
+Fin lectura = 53
+Evaluando [huellasbin/huella441.bin] -> Score: 0.0178754
+Fin lectura = 42
+Evaluando [huellasbin/huella442.bin] -> Score: 0.0174346
+Fin lectura = 71
+Evaluando [huellasbin/huella443.bin] -> Score: 0.0175106
+Fin lectura = 39
+Evaluando [huellasbin/huella444.bin] -> Score: 0.0162759
+Fin lectura = 40
+Evaluando [huellasbin/huella445.bin] -> Score: 0.0158775
+Fin lectura = 67
+Evaluando [huellasbin/huella446.bin] -> Score: 0.0146017
+Fin lectura = 61
+Evaluando [huellasbin/huella447.bin] -> Score: 0.0145193
+Fin lectura = 50
+Evaluando [huellasbin/huella448.bin] -> Score: 0.0165601
+Fin lectura = 46
+Evaluando [huellasbin/huella449.bin] -> Score: 0.0181517
+Fin lectura = 51
+Evaluando [huellasbin/huella44.bin] -> Score: 0.0161081
+Fin lectura = 65
+Evaluando [huellasbin/huella450.bin] -> Score: 0.0175094
+Fin lectura = 66
+Evaluando [huellasbin/huella451.bin] -> Score: 0.0166708
+Fin lectura = 56
+Evaluando [huellasbin/huella452.bin] -> Score: 0.0178251
+Fin lectura = 58
+Evaluando [huellasbin/huella453.bin] -> Score: 0.0177428
+Fin lectura = 60
+Evaluando [huellasbin/huella454.bin] -> Score: 0.0156467
+Fin lectura = 71
+Evaluando [huellasbin/huella455.bin] -> Score: 0.0170524
+Fin lectura = 48
+Evaluando [huellasbin/huella456.bin] -> Score: 0.0181589
+Fin lectura = 45
+Evaluando [huellasbin/huella457.bin] -> Score: 0.0209927
+Fin lectura = 39
+Evaluando [huellasbin/huella458.bin] -> Score: 0.0178347
+Fin lectura = 39
+Evaluando [huellasbin/huella459.bin] -> Score: 0.0156574
+Fin lectura = 56
+Evaluando [huellasbin/huella45.bin] -> Score: 0.0157167
+Fin lectura = 54
+Evaluando [huellasbin/huella460.bin] -> Score: 0.0162703
+Fin lectura = 68
+Evaluando [huellasbin/huella461.bin] -> Score: 0.0166114
+Fin lectura = 65
+Evaluando [huellasbin/huella462.bin] -> Score: 0.0188889
+Fin lectura = 58
+Evaluando [huellasbin/huella463.bin] -> Score: 0.0217126
+Fin lectura = 37
+Evaluando [huellasbin/huella464.bin] -> Score: 0.0233066
+Fin lectura = 44
+Evaluando [huellasbin/huella465.bin] -> Score: 0.0275732
+Fin lectura = 72
+Evaluando [huellasbin/huella466.bin] -> Score: 0.0203529
+Fin lectura = 79
+Evaluando [huellasbin/huella467.bin] -> Score: 0.0193526
+Fin lectura = 61
+Evaluando [huellasbin/huella468.bin] -> Score: 0.0196682
+Fin lectura = 49
+Evaluando [huellasbin/huella469.bin] -> Score: 0.0179623
+Fin lectura = 71
+Evaluando [huellasbin/huella46.bin] -> Score: 0.0182179
+Fin lectura = 43
+Evaluando [huellasbin/huella470.bin] -> Score: 0.0184569
+Fin lectura = 55
+Evaluando [huellasbin/huella471.bin] -> Score: 0.0179601
+Fin lectura = 56
+Evaluando [huellasbin/huella472.bin] -> Score: 0.0178842
+Fin lectura = 49
+Evaluando [huellasbin/huella473.bin] -> Score: 0.0180514
+Fin lectura = 57
+Evaluando [huellasbin/huella474.bin] -> Score: 0.0184275
+Fin lectura = 59
+Evaluando [huellasbin/huella475.bin] -> Score: 0.0175093
+Fin lectura = 54
+Evaluando [huellasbin/huella476.bin] -> Score: 0.0182491
+Fin lectura = 52
+Evaluando [huellasbin/huella477.bin] -> Score: 0.0183721
+Fin lectura = 90
+Evaluando [huellasbin/huella478.bin] -> Score: 0.0161241
+Fin lectura = 84
+Evaluando [huellasbin/huella479.bin] -> Score: 0.0162687
+Fin lectura = 69
+Evaluando [huellasbin/huella47.bin] -> Score: 0.0170942
+Fin lectura = 47
+Evaluando [huellasbin/huella480.bin] -> Score: 0.01495
+Fin lectura = 47
+Evaluando [huellasbin/huella481.bin] -> Score: 0.0165156
+Fin lectura = 67
+Evaluando [huellasbin/huella482.bin] -> Score: 0.0150503
+Fin lectura = 61
+Evaluando [huellasbin/huella483.bin] -> Score: 0.0156738
+Fin lectura = 65
+Evaluando [huellasbin/huella484.bin] -> Score: 0.0172239
+Fin lectura = 62
+Evaluando [huellasbin/huella485.bin] -> Score: 0.0159495
+Fin lectura = 43
+Evaluando [huellasbin/huella486.bin] -> Score: 0.0161984
+Fin lectura = 48
+Evaluando [huellasbin/huella487.bin] -> Score: 0.0171033
+Fin lectura = 53
+Evaluando [huellasbin/huella488.bin] -> Score: 0.0168334
+Fin lectura = 50
+Evaluando [huellasbin/huella489.bin] -> Score: 0.0165972
+Fin lectura = 58
+Evaluando [huellasbin/huella48.bin] -> Score: 0.0201387
+Fin lectura = 58
+Evaluando [huellasbin/huella490.bin] -> Score: 0.0167571
+Fin lectura = 53
+Evaluando [huellasbin/huella491.bin] -> Score: 0.0196229
+Fin lectura = 38
+Evaluando [huellasbin/huella492.bin] -> Score: 0.0179132
+Fin lectura = 36
+Evaluando [huellasbin/huella493.bin] -> Score: 0.0161836
+Fin lectura = 43
+Evaluando [huellasbin/huella494.bin] -> Score: 0.0190154
+Fin lectura = 39
+Evaluando [huellasbin/huella495.bin] -> Score: 0.0209707
+Fin lectura = 69
+Evaluando [huellasbin/huella496.bin] -> Score: 0.0159376
+Fin lectura = 74
+Evaluando [huellasbin/huella497.bin] -> Score: 0.0169108
+Fin lectura = 52
+Evaluando [huellasbin/huella498.bin] -> Score: 0.0168751
+Fin lectura = 47
+Evaluando [huellasbin/huella499.bin] -> Score: 0.0161319
+Fin lectura = 35
+Evaluando [huellasbin/huella49.bin] -> Score: 0.0209391
+Fin lectura = 61
+Evaluando [huellasbin/huella4.bin] -> Score: 0.0182522
+Fin lectura = 50
+Evaluando [huellasbin/huella500.bin] -> Score: 0.0171726
+Fin lectura = 60
+Evaluando [huellasbin/huella501.bin] -> Score: 0.0159681
+Fin lectura = 59
+Evaluando [huellasbin/huella502.bin] -> Score: 0.017663
+Fin lectura = 59
+Evaluando [huellasbin/huella503.bin] -> Score: 0.0176357
+Fin lectura = 43
+Evaluando [huellasbin/huella504.bin] -> Score: 0.0153805
+Fin lectura = 57
+Evaluando [huellasbin/huella505.bin] -> Score: 0.015855
+Fin lectura = 50
+Evaluando [huellasbin/huella506.bin] -> Score: 0.0152165
+Fin lectura = 79
+Evaluando [huellasbin/huella507.bin] -> Score: 0.0183563
+Fin lectura = 74
+Evaluando [huellasbin/huella508.bin] -> Score: 0.0173147
+Fin lectura = 50
+Evaluando [huellasbin/huella509.bin] -> Score: 0.0154783
+Fin lectura = 43
+Evaluando [huellasbin/huella50.bin] -> Score: 0.0195946
+Fin lectura = 49
+Evaluando [huellasbin/huella510.bin] -> Score: 0.0197345
+Fin lectura = 46
+Evaluando [huellasbin/huella511.bin] -> Score: 0.0161116
+Fin lectura = 66
+Evaluando [huellasbin/huella512.bin] -> Score: 0.0195045
+Fin lectura = 69
+Evaluando [huellasbin/huella513.bin] -> Score: 0.0179659
+Fin lectura = 59
+Evaluando [huellasbin/huella514.bin] -> Score: 0.0180526
+Fin lectura = 56
+Evaluando [huellasbin/huella515.bin] -> Score: 0.0203018
+Fin lectura = 72
+Evaluando [huellasbin/huella516.bin] -> Score: 0.0189471
+Fin lectura = 68
+Evaluando [huellasbin/huella517.bin] -> Score: 0.0200707
+Fin lectura = 43
+Evaluando [huellasbin/huella518.bin] -> Score: 0.0196917
+Fin lectura = 57
+Evaluando [huellasbin/huella519.bin] -> Score: 0.0202455
+Fin lectura = 73
+Evaluando [huellasbin/huella51.bin] -> Score: 0.0184435
+Fin lectura = 64
+Evaluando [huellasbin/huella520.bin] -> Score: 0.0181578
+Fin lectura = 42
+Evaluando [huellasbin/huella521.bin] -> Score: 0.0240539
+Fin lectura = 41
+Evaluando [huellasbin/huella522.bin] -> Score: 0.0276319
+Fin lectura = 34
+Evaluando [huellasbin/huella523.bin] -> Score: 0.0145088
+Fin lectura = 62
+Evaluando [huellasbin/huella524.bin] -> Score: 0.0176239
+Fin lectura = 60
+Evaluando [huellasbin/huella525.bin] -> Score: 0.0201032
+Fin lectura = 52
+Evaluando [huellasbin/huella526.bin] -> Score: 0.0153138
+Fin lectura = 52
+Evaluando [huellasbin/huella527.bin] -> Score: 0.0171216
+Fin lectura = 72
+Evaluando [huellasbin/huella528.bin] -> Score: 0.0172419
+Fin lectura = 70
+Evaluando [huellasbin/huella529.bin] -> Score: 0.0163204
+Fin lectura = 67
+Evaluando [huellasbin/huella52.bin] -> Score: 0.0181202
+Fin lectura = 62
+Evaluando [huellasbin/huella530.bin] -> Score: 0.0151677
+Fin lectura = 62
+Evaluando [huellasbin/huella531.bin] -> Score: 0.0166172
+Fin lectura = 49
+Evaluando [huellasbin/huella532.bin] -> Score: 0.0179898
+Fin lectura = 58
+Evaluando [huellasbin/huella533.bin] -> Score: 0.0169417
+Fin lectura = 58
+Evaluando [huellasbin/huella534.bin] -> Score: 0.0149641
+Fin lectura = 49
+Evaluando [huellasbin/huella535.bin] -> Score: 0.0160422
+Fin lectura = 57
+Evaluando [huellasbin/huella536.bin] -> Score: 0.0171973
+Fin lectura = 54
+Evaluando [huellasbin/huella537.bin] -> Score: 0.0191148
+Fin lectura = 65
+Evaluando [huellasbin/huella538.bin] -> Score: 0.0162777
+Fin lectura = 61
+Evaluando [huellasbin/huella539.bin] -> Score: 0.0152009
+Fin lectura = 51
+Evaluando [huellasbin/huella53.bin] -> Score: 0.0151982
+Fin lectura = 71
+Evaluando [huellasbin/huella540.bin] -> Score: 0.0205496
+Fin lectura = 59
+Evaluando [huellasbin/huella541.bin] -> Score: 0.0170489
+Fin lectura = 56
+Evaluando [huellasbin/huella542.bin] -> Score: 0.0209565
+Fin lectura = 50
+Evaluando [huellasbin/huella543.bin] -> Score: 0.0204917
+Fin lectura = 73
+Evaluando [huellasbin/huella544.bin] -> Score: 0.0226245
+Fin lectura = 72
+Evaluando [huellasbin/huella545.bin] -> Score: 0.0241984
+Fin lectura = 68
+Evaluando [huellasbin/huella546.bin] -> Score: 0.0163823
+Fin lectura = 64
+Evaluando [huellasbin/huella547.bin] -> Score: 0.0201845
+Fin lectura = 58
+Evaluando [huellasbin/huella548.bin] -> Score: 0.0197492
+Fin lectura = 59
+Evaluando [huellasbin/huella549.bin] -> Score: 0.0157241
+Fin lectura = 56
+Evaluando [huellasbin/huella54.bin] -> Score: 0.0183688
+Fin lectura = 55
+Evaluando [huellasbin/huella550.bin] -> Score: 0.0157291
+Fin lectura = 41
+Evaluando [huellasbin/huella551.bin] -> Score: 0.0180592
+Fin lectura = 47
+Evaluando [huellasbin/huella552.bin] -> Score: 0.0207342
+Fin lectura = 55
+Evaluando [huellasbin/huella553.bin] -> Score: 0.0175186
+Fin lectura = 60
+Evaluando [huellasbin/huella554.bin] -> Score: 0.0238498
+Fin lectura = 56
+Evaluando [huellasbin/huella555.bin] -> Score: 0.0237245
+Fin lectura = 64
+Evaluando [huellasbin/huella556.bin] -> Score: 0.0214348
+Fin lectura = 58
+Evaluando [huellasbin/huella557.bin] -> Score: 0.0166233
+Fin lectura = 56
+Evaluando [huellasbin/huella558.bin] -> Score: 0.0194215
+Fin lectura = 50
+Evaluando [huellasbin/huella559.bin] -> Score: 0.0184997
+Fin lectura = 58
+Evaluando [huellasbin/huella55.bin] -> Score: 0.0183776
+Fin lectura = 85
+Evaluando [huellasbin/huella560.bin] -> Score: 0.0211686
+Fin lectura = 78
+Evaluando [huellasbin/huella561.bin] -> Score: 0.0189284
+Fin lectura = 60
+Evaluando [huellasbin/huella562.bin] -> Score: 0.0159374
+Fin lectura = 63
+Evaluando [huellasbin/huella563.bin] -> Score: 0.0155012
+Fin lectura = 53
+Evaluando [huellasbin/huella564.bin] -> Score: 0.0213731
+Fin lectura = 55
+Evaluando [huellasbin/huella565.bin] -> Score: 0.0181682
+Fin lectura = 49
+Evaluando [huellasbin/huella566.bin] -> Score: 0.0193738
+Fin lectura = 65
+Evaluando [huellasbin/huella567.bin] -> Score: 0.0183707
+Fin lectura = 35
+Evaluando [huellasbin/huella568.bin] -> Score: 0.0187325
+Fin lectura = 33
+Evaluando [huellasbin/huella569.bin] -> Score: 0.0195997
+Fin lectura = 65
+Evaluando [huellasbin/huella56.bin] -> Score: 0.0159316
+Fin lectura = 56
+Evaluando [huellasbin/huella570.bin] -> Score: 0.0192463
+Fin lectura = 53
+Evaluando [huellasbin/huella571.bin] -> Score: 0.0182748
+Fin lectura = 71
+Evaluando [huellasbin/huella572.bin] -> Score: 0.0182493
+Fin lectura = 64
+Evaluando [huellasbin/huella573.bin] -> Score: 0.0191819
+Fin lectura = 73
+Evaluando [huellasbin/huella574.bin] -> Score: 0.0179192
+Fin lectura = 39
+Evaluando [huellasbin/huella575.bin] -> Score: 0.020414
+Fin lectura = 42
+Evaluando [huellasbin/huella576.bin] -> Score: 0.0208393
+Fin lectura = 90
+Evaluando [huellasbin/huella577.bin] -> Score: 0.0177231
+Fin lectura = 87
+Evaluando [huellasbin/huella578.bin] -> Score: 0.020019
+Fin lectura = 80
+Evaluando [huellasbin/huella579.bin] -> Score: 0.0164246
+Fin lectura = 61
+Evaluando [huellasbin/huella57.bin] -> Score: 0.0161887
+Fin lectura = 74
+Evaluando [huellasbin/huella580.bin] -> Score: 0.015135
+Fin lectura = 43
+Evaluando [huellasbin/huella581.bin] -> Score: 0.01745
+Fin lectura = 64
+Evaluando [huellasbin/huella582.bin] -> Score: 0.0229219
+Fin lectura = 66
+Evaluando [huellasbin/huella583.bin] -> Score: 0.0221848
+Fin lectura = 77
+Evaluando [huellasbin/huella584.bin] -> Score: 0.0164314
+Fin lectura = 61
+Evaluando [huellasbin/huella585.bin] -> Score: 0.0151221
+Fin lectura = 49
+Evaluando [huellasbin/huella586.bin] -> Score: 0.0163512
+Fin lectura = 49
+Evaluando [huellasbin/huella587.bin] -> Score: 0.016374
+Fin lectura = 43
+Evaluando [huellasbin/huella588.bin] -> Score: 0.0156442
+Fin lectura = 46
+Evaluando [huellasbin/huella589.bin] -> Score: 0.0157614
+Fin lectura = 73
+Evaluando [huellasbin/huella58.bin] -> Score: 0.0165092
+Fin lectura = 42
+Evaluando [huellasbin/huella590.bin] -> Score: 0.0197471
+Fin lectura = 48
+Evaluando [huellasbin/huella591.bin] -> Score: 0.0199912
+Fin lectura = 74
+Evaluando [huellasbin/huella592.bin] -> Score: 0.0172148
+Fin lectura = 78
+Evaluando [huellasbin/huella593.bin] -> Score: 0.0160403
+Fin lectura = 50
+Evaluando [huellasbin/huella594.bin] -> Score: 0.0149748
+Fin lectura = 65
+Evaluando [huellasbin/huella595.bin] -> Score: 0.023646
+Fin lectura = 75
+Evaluando [huellasbin/huella596.bin] -> Score: 0.0209411
+Fin lectura = 40
+Evaluando [huellasbin/huella597.bin] -> Score: 0.0195548
+Fin lectura = 35
+Evaluando [huellasbin/huella598.bin] -> Score: 0.0176949
+Fin lectura = 46
+Evaluando [huellasbin/huella599.bin] -> Score: 0.0203828
+Fin lectura = 78
+Evaluando [huellasbin/huella59.bin] -> Score: 0.0177978
+Fin lectura = 68
+Evaluando [huellasbin/huella5.bin] -> Score: 0.0192542
+Fin lectura = 47
+Evaluando [huellasbin/huella600.bin] -> Score: 0.020227
+Fin lectura = 39
+Evaluando [huellasbin/huella601.bin] -> Score: 0.017661
+Fin lectura = 49
+Evaluando [huellasbin/huella602.bin] -> Score: 0.0165264
+Fin lectura = 78
+Evaluando [huellasbin/huella603.bin] -> Score: 0.0182754
+Fin lectura = 83
+Evaluando [huellasbin/huella604.bin] -> Score: 0.0189815
+Fin lectura = 50
+Evaluando [huellasbin/huella605.bin] -> Score: 0.0168724
+Fin lectura = 51
+Evaluando [huellasbin/huella606.bin] -> Score: 0.0175803
+Fin lectura = 51
+Evaluando [huellasbin/huella607.bin] -> Score: 0.0182811
+Fin lectura = 52
+Evaluando [huellasbin/huella608.bin] -> Score: 0.0168601
+Fin lectura = 48
+Evaluando [huellasbin/huella609.bin] -> Score: 0.0164608
+Fin lectura = 58
+Evaluando [huellasbin/huella60.bin] -> Score: 0.017163
+Fin lectura = 53
+Evaluando [huellasbin/huella610.bin] -> Score: 0.0157866
+Fin lectura = 58
+Evaluando [huellasbin/huella611.bin] -> Score: 0.0165949
+Fin lectura = 56
+Evaluando [huellasbin/huella612.bin] -> Score: 0.0172676
+Fin lectura = 57
+Evaluando [huellasbin/huella613.bin] -> Score: 0.0165178
+Fin lectura = 33
+Evaluando [huellasbin/huella614.bin] -> Score: 0.0164694
+Fin lectura = 30
+Evaluando [huellasbin/huella615.bin] -> Score: 0.0190168
+Fin lectura = 45
+Evaluando [huellasbin/huella616.bin] -> Score: 0.0169192
+Fin lectura = 48
+Evaluando [huellasbin/huella617.bin] -> Score: 0.0157216
+Fin lectura = 58
+Evaluando [huellasbin/huella618.bin] -> Score: 0.0171163
+Fin lectura = 50
+Evaluando [huellasbin/huella619.bin] -> Score: 0.0160246
+Fin lectura = 63
+Evaluando [huellasbin/huella61.bin] -> Score: 0.0170849
+Fin lectura = 51
+Evaluando [huellasbin/huella620.bin] -> Score: 0.0172004
+Fin lectura = 37
+Evaluando [huellasbin/huella621.bin] -> Score: 0.0195101
+Fin lectura = 39
+Evaluando [huellasbin/huella622.bin] -> Score: 0.0202696
+Fin lectura = 77
+Evaluando [huellasbin/huella623.bin] -> Score: 0.0178858
+Fin lectura = 65
+Evaluando [huellasbin/huella624.bin] -> Score: 0.0184448
+Fin lectura = 65
+Evaluando [huellasbin/huella625.bin] -> Score: 0.0156537
+Fin lectura = 69
+Evaluando [huellasbin/huella626.bin] -> Score: 0.0163663
+Fin lectura = 56
+Evaluando [huellasbin/huella627.bin] -> Score: 0.0161153
+Fin lectura = 50
+Evaluando [huellasbin/huella628.bin] -> Score: 0.0157535
+Fin lectura = 45
+Evaluando [huellasbin/huella629.bin] -> Score: 0.0174666
+Fin lectura = 54
+Evaluando [huellasbin/huella62.bin] -> Score: 0.0171934
+Fin lectura = 51
+Evaluando [huellasbin/huella630.bin] -> Score: 0.0154327
+Fin lectura = 64
+Evaluando [huellasbin/huella631.bin] -> Score: 0.018223
+Fin lectura = 61
+Evaluando [huellasbin/huella632.bin] -> Score: 0.0157466
+Fin lectura = 58
+Evaluando [huellasbin/huella633.bin] -> Score: 0.0166726
+Fin lectura = 52
+Evaluando [huellasbin/huella634.bin] -> Score: 0.0157391
+Fin lectura = 46
+Evaluando [huellasbin/huella635.bin] -> Score: 0.0168657
+Fin lectura = 42
+Evaluando [huellasbin/huella636.bin] -> Score: 0.0164609
+Fin lectura = 59
+Evaluando [huellasbin/huella637.bin] -> Score: 0.0178679
+Fin lectura = 58
+Evaluando [huellasbin/huella638.bin] -> Score: 0.0159723
+Fin lectura = 64
+Evaluando [huellasbin/huella639.bin] -> Score: 0.0173136
+Fin lectura = 59
+Evaluando [huellasbin/huella63.bin] -> Score: 0.0153314
+Fin lectura = 59
+Evaluando [huellasbin/huella640.bin] -> Score: 0.0159449
+Fin lectura = 64
+Evaluando [huellasbin/huella641.bin] -> Score: 0.0171111
+Fin lectura = 54
+Evaluando [huellasbin/huella642.bin] -> Score: 0.0178598
+Fin lectura = 55
+Evaluando [huellasbin/huella643.bin] -> Score: 0.0179703
+Fin lectura = 42
+Evaluando [huellasbin/huella644.bin] -> Score: 0.0169348
+Fin lectura = 41
+Evaluando [huellasbin/huella645.bin] -> Score: 0.0164843
+Fin lectura = 46
+Evaluando [huellasbin/huella646.bin] -> Score: 0.0166121
+Fin lectura = 50
+Evaluando [huellasbin/huella647.bin] -> Score: 0.0155536
+Fin lectura = 65
+Evaluando [huellasbin/huella648.bin] -> Score: 0.0169317
+Fin lectura = 54
+Evaluando [huellasbin/huella649.bin] -> Score: 0.0161646
+Fin lectura = 38
+Evaluando [huellasbin/huella64.bin] -> Score: 0.0246444
+Fin lectura = 44
+Evaluando [huellasbin/huella650.bin] -> Score: 0.0164711
+Fin lectura = 43
+Evaluando [huellasbin/huella651.bin] -> Score: 0.0170179
+Fin lectura = 53
+Evaluando [huellasbin/huella652.bin] -> Score: 0.0171699
+Fin lectura = 54
+Evaluando [huellasbin/huella653.bin] -> Score: 0.0189459
+Fin lectura = 63
+Evaluando [huellasbin/huella654.bin] -> Score: 0.0153202
+Fin lectura = 61
+Evaluando [huellasbin/huella655.bin] -> Score: 0.0165343
+Fin lectura = 69
+Evaluando [huellasbin/huella656.bin] -> Score: 0.0176586
+Fin lectura = 68
+Evaluando [huellasbin/huella657.bin] -> Score: 0.0185486
+Fin lectura = 52
+Evaluando [huellasbin/huella658.bin] -> Score: 0.0155742
+Fin lectura = 49
+Evaluando [huellasbin/huella659.bin] -> Score: 0.0164872
+Fin lectura = 32
+Evaluando [huellasbin/huella65.bin] -> Score: 0.016743
+Fin lectura = 60
+Evaluando [huellasbin/huella660.bin] -> Score: 0.0178452
+Fin lectura = 70
+Evaluando [huellasbin/huella661.bin] -> Score: 0.017188
+Fin lectura = 55
+Evaluando [huellasbin/huella662.bin] -> Score: 0.0166385
+Fin lectura = 45
+Evaluando [huellasbin/huella663.bin] -> Score: 0.0158297
+Fin lectura = 55
+Evaluando [huellasbin/huella664.bin] -> Score: 0.0162587
+Fin lectura = 38
+Evaluando [huellasbin/huella665.bin] -> Score: 0.0150082
+Fin lectura = 42
+Evaluando [huellasbin/huella666.bin] -> Score: 0.0162528
+Fin lectura = 67
+Evaluando [huellasbin/huella667.bin] -> Score: 0.0157268
+Fin lectura = 54
+Evaluando [huellasbin/huella668.bin] -> Score: 0.0193321
+Fin lectura = 58
+Evaluando [huellasbin/huella669.bin] -> Score: 0.0193667
+Fin lectura = 59
+Evaluando [huellasbin/huella66.bin] -> Score: 0.0227187
+Fin lectura = 78
+Evaluando [huellasbin/huella670.bin] -> Score: 0.0172904
+Fin lectura = 77
+Evaluando [huellasbin/huella671.bin] -> Score: 0.0190662
+Fin lectura = 68
+Evaluando [huellasbin/huella672.bin] -> Score: 0.0169578
+Fin lectura = 57
+Evaluando [huellasbin/huella673.bin] -> Score: 0.0175081
+Fin lectura = 78
+Evaluando [huellasbin/huella674.bin] -> Score: 0.0174792
+Fin lectura = 50
+Evaluando [huellasbin/huella675.bin] -> Score: 0.0186356
+Fin lectura = 47
+Evaluando [huellasbin/huella676.bin] -> Score: 0.0181469
+Fin lectura = 58
+Evaluando [huellasbin/huella677.bin] -> Score: 0.0192074
+Fin lectura = 67
+Evaluando [huellasbin/huella678.bin] -> Score: 0.0164217
+Fin lectura = 38
+Evaluando [huellasbin/huella679.bin] -> Score: 0.0188996
+Fin lectura = 55
+Evaluando [huellasbin/huella67.bin] -> Score: 0.0274953
+Fin lectura = 42
+Evaluando [huellasbin/huella680.bin] -> Score: 0.0198928
+Fin lectura = 77
+Evaluando [huellasbin/huella681.bin] -> Score: 0.0179265
+Fin lectura = 63
+Evaluando [huellasbin/huella682.bin] -> Score: 0.0180591
+Fin lectura = 54
+Evaluando [huellasbin/huella683.bin] -> Score: 0.0164537
+Fin lectura = 50
+Evaluando [huellasbin/huella684.bin] -> Score: 0.0174897
+Fin lectura = 59
+Evaluando [huellasbin/huella685.bin] -> Score: 0.0181094
+Fin lectura = 54
+Evaluando [huellasbin/huella686.bin] -> Score: 0.0207702
+Fin lectura = 58
+Evaluando [huellasbin/huella687.bin] -> Score: 0.0244649
+Fin lectura = 53
+Evaluando [huellasbin/huella688.bin] -> Score: 0.0185138
+Fin lectura = 56
+Evaluando [huellasbin/huella689.bin] -> Score: 0.0191356
+Fin lectura = 56
+Evaluando [huellasbin/huella68.bin] -> Score: 0.021048
+Fin lectura = 65
+Evaluando [huellasbin/huella690.bin] -> Score: 0.0161501
+Fin lectura = 57
+Evaluando [huellasbin/huella691.bin] -> Score: 0.0167969
+Fin lectura = 45
+Evaluando [huellasbin/huella692.bin] -> Score: 0.018359
+Fin lectura = 54
+Evaluando [huellasbin/huella693.bin] -> Score: 0.0181794
+Fin lectura = 69
+Evaluando [huellasbin/huella694.bin] -> Score: 0.0191067
+Fin lectura = 58
+Evaluando [huellasbin/huella695.bin] -> Score: 0.0176976
+Fin lectura = 68
+Evaluando [huellasbin/huella696.bin] -> Score: 0.0174267
+Fin lectura = 64
+Evaluando [huellasbin/huella697.bin] -> Score: 0.0194867
+Fin lectura = 51
+Evaluando [huellasbin/huella698.bin] -> Score: 0.0151515
+Fin lectura = 49
+Evaluando [huellasbin/huella699.bin] -> Score: 0.0179363
+Fin lectura = 52
+Evaluando [huellasbin/huella69.bin] -> Score: 0.0173954
+Fin lectura = 47
+Evaluando [huellasbin/huella6.bin] -> Score: 0.016247
+Fin lectura = 35
+Evaluando [huellasbin/huella700.bin] -> Score: 0.0169806
+Fin lectura = 45
+Evaluando [huellasbin/huella701.bin] -> Score: 0.0176472
+Fin lectura = 46
+Evaluando [huellasbin/huella702.bin] -> Score: 0.0186183
+Fin lectura = 50
+Evaluando [huellasbin/huella703.bin] -> Score: 0.0175266
+Fin lectura = 75
+Evaluando [huellasbin/huella704.bin] -> Score: 0.018142
+Fin lectura = 72
+Evaluando [huellasbin/huella705.bin] -> Score: 0.0185301
+Fin lectura = 53
+Evaluando [huellasbin/huella706.bin] -> Score: 0.017758
+Fin lectura = 49
+Evaluando [huellasbin/huella707.bin] -> Score: 0.0188362
+Fin lectura = 52
+Evaluando [huellasbin/huella708.bin] -> Score: 0.0197839
+Fin lectura = 45
+Evaluando [huellasbin/huella709.bin] -> Score: 0.0166494
+Fin lectura = 64
+Evaluando [huellasbin/huella70.bin] -> Score: 0.0171073
+Fin lectura = 67
+Evaluando [huellasbin/huella710.bin] -> Score: 0.0186176
+Fin lectura = 60
+Evaluando [huellasbin/huella711.bin] -> Score: 0.0183691
+Fin lectura = 64
+Evaluando [huellasbin/huella712.bin] -> Score: 0.0209093
+Fin lectura = 65
+Evaluando [huellasbin/huella713.bin] -> Score: 0.0170872
+Fin lectura = 69
+Evaluando [huellasbin/huella714.bin] -> Score: 0.0172784
+Fin lectura = 64
+Evaluando [huellasbin/huella715.bin] -> Score: 0.0206974
+Fin lectura = 58
+Evaluando [huellasbin/huella716.bin] -> Score: 0.0175682
+Fin lectura = 57
+Evaluando [huellasbin/huella717.bin] -> Score: 0.0190168
+Fin lectura = 57
+Evaluando [huellasbin/huella718.bin] -> Score: 0.0156145
+Fin lectura = 59
+Evaluando [huellasbin/huella719.bin] -> Score: 0.0177437
+Fin lectura = 60
+Evaluando [huellasbin/huella71.bin] -> Score: 0.0164963
+Fin lectura = 72
+Evaluando [huellasbin/huella720.bin] -> Score: 0.0155737
+Fin lectura = 64
+Evaluando [huellasbin/huella721.bin] -> Score: 0.0158723
+Fin lectura = 51
+Evaluando [huellasbin/huella722.bin] -> Score: 0.0184874
+Fin lectura = 49
+Evaluando [huellasbin/huella723.bin] -> Score: 0.0171414
+Fin lectura = 42
+Evaluando [huellasbin/huella724.bin] -> Score: 0.016699
+Fin lectura = 44
+Evaluando [huellasbin/huella725.bin] -> Score: 0.0157454
+Fin lectura = 67
+Evaluando [huellasbin/huella726.bin] -> Score: 0.0185285
+Fin lectura = 63
+Evaluando [huellasbin/huella727.bin] -> Score: 0.0170801
+Fin lectura = 54
+Evaluando [huellasbin/huella728.bin] -> Score: 0.0179583
+Fin lectura = 52
+Evaluando [huellasbin/huella729.bin] -> Score: 0.0172951
+Fin lectura = 78
+Evaluando [huellasbin/huella72.bin] -> Score: 0.016131
+Fin lectura = 58
+Evaluando [huellasbin/huella730.bin] -> Score: 0.0175767
+Fin lectura = 40
+Evaluando [huellasbin/huella731.bin] -> Score: 0.018773
+Fin lectura = 30
+Evaluando [huellasbin/huella732.bin] -> Score: 0.0190576
+Fin lectura = 55
+Evaluando [huellasbin/huella733.bin] -> Score: 0.0164776
+Fin lectura = 50
+Evaluando [huellasbin/huella734.bin] -> Score: 0.0177407
+Fin lectura = 48
+Evaluando [huellasbin/huella735.bin] -> Score: 0.0170673
+Fin lectura = 51
+Evaluando [huellasbin/huella736.bin] -> Score: 0.0175726
+Fin lectura = 71
+Evaluando [huellasbin/huella737.bin] -> Score: 0.0173966
+Fin lectura = 74
+Evaluando [huellasbin/huella738.bin] -> Score: 0.0200643
+Fin lectura = 81
+Evaluando [huellasbin/huella739.bin] -> Score: 0.0186686
+Fin lectura = 56
+Evaluando [huellasbin/huella73.bin] -> Score: 0.0156166
+Fin lectura = 68
+Evaluando [huellasbin/huella740.bin] -> Score: 0.0175219
+Fin lectura = 58
+Evaluando [huellasbin/huella741.bin] -> Score: 0.0163103
+Fin lectura = 37
+Evaluando [huellasbin/huella742.bin] -> Score: 0.0167209
+Fin lectura = 43
+Evaluando [huellasbin/huella743.bin] -> Score: 0.0215709
+Fin lectura = 35
+Evaluando [huellasbin/huella744.bin] -> Score: 0.019708
+Fin lectura = 45
+Evaluando [huellasbin/huella745.bin] -> Score: 0.0189617
+Fin lectura = 53
+Evaluando [huellasbin/huella746.bin] -> Score: 0.0148037
+Fin lectura = 48
+Evaluando [huellasbin/huella747.bin] -> Score: 0.0147308
+Fin lectura = 49
+Evaluando [huellasbin/huella748.bin] -> Score: 0.0188231
+Fin lectura = 48
+Evaluando [huellasbin/huella749.bin] -> Score: 0.0195596
+Fin lectura = 48
+Evaluando [huellasbin/huella74.bin] -> Score: 0.0155784
+Fin lectura = 56
+Evaluando [huellasbin/huella750.bin] -> Score: 0.0171583
+Fin lectura = 54
+Evaluando [huellasbin/huella751.bin] -> Score: 0.0159954
+Fin lectura = 60
+Evaluando [huellasbin/huella752.bin] -> Score: 0.0153672
+Fin lectura = 58
+Evaluando [huellasbin/huella753.bin] -> Score: 0.0177018
+Fin lectura = 49
+Evaluando [huellasbin/huella754.bin] -> Score: 0.0179788
+Fin lectura = 42
+Evaluando [huellasbin/huella755.bin] -> Score: 0.0162936
+Fin lectura = 69
+Evaluando [huellasbin/huella756.bin] -> Score: 0.0172675
+Fin lectura = 55
+Evaluando [huellasbin/huella757.bin] -> Score: 0.0181097
+Fin lectura = 77
+Evaluando [huellasbin/huella758.bin] -> Score: 0.0200935
+Fin lectura = 66
+Evaluando [huellasbin/huella759.bin] -> Score: 0.0219974
+Fin lectura = 59
+Evaluando [huellasbin/huella75.bin] -> Score: 0.0171402
+Fin lectura = 52
+Evaluando [huellasbin/huella760.bin] -> Score: 0.0153028
+Fin lectura = 64
+Evaluando [huellasbin/huella761.bin] -> Score: 0.0177919
+Fin lectura = 74
+Evaluando [huellasbin/huella762.bin] -> Score: 0.0193615
+Fin lectura = 45
+Evaluando [huellasbin/huella763.bin] -> Score: 0.0185348
+Fin lectura = 47
+Evaluando [huellasbin/huella764.bin] -> Score: 0.0191417
+Fin lectura = 40
+Evaluando [huellasbin/huella765.bin] -> Score: 0.018385
+Fin lectura = 39
+Evaluando [huellasbin/huella766.bin] -> Score: 0.0167576
+Fin lectura = 62
+Evaluando [huellasbin/huella767.bin] -> Score: 0.0238623
+Fin lectura = 65
+Evaluando [huellasbin/huella768.bin] -> Score: 0.0188555
+Fin lectura = 75
+Evaluando [huellasbin/huella769.bin] -> Score: 0.0196137
+Fin lectura = 65
+Evaluando [huellasbin/huella76.bin] -> Score: 0.018609
+Fin lectura = 79
+Evaluando [huellasbin/huella770.bin] -> Score: 0.0212022
+Fin lectura = 57
+Evaluando [huellasbin/huella771.bin] -> Score: 0.0168214
+Fin lectura = 52
+Evaluando [huellasbin/huella772.bin] -> Score: 0.0169083
+Fin lectura = 51
+Evaluando [huellasbin/huella773.bin] -> Score: 0.0145693
+Fin lectura = 46
+Evaluando [huellasbin/huella774.bin] -> Score: 0.0157847
+Fin lectura = 71
+Evaluando [huellasbin/huella775.bin] -> Score: 0.0171779
+Fin lectura = 75
+Evaluando [huellasbin/huella776.bin] -> Score: 0.0173592
+Fin lectura = 37
+Evaluando [huellasbin/huella777.bin] -> Score: 0.0166848
+Fin lectura = 40
+Evaluando [huellasbin/huella778.bin] -> Score: 0.0158786
+Fin lectura = 39
+Evaluando [huellasbin/huella779.bin] -> Score: 0.0162573
+Fin lectura = 62
+Evaluando [huellasbin/huella77.bin] -> Score: 0.020816
+Fin lectura = 45
+Evaluando [huellasbin/huella780.bin] -> Score: 0.0161966
+Fin lectura = 40
+Evaluando [huellasbin/huella781.bin] -> Score: 0.0162313
+Fin lectura = 52
+Evaluando [huellasbin/huella782.bin] -> Score: 0.0170488
+Fin lectura = 65
+Evaluando [huellasbin/huella783.bin] -> Score: 0.0159541
+Fin lectura = 62
+Evaluando [huellasbin/huella784.bin] -> Score: 0.0175574
+Fin lectura = 56
+Evaluando [huellasbin/huella785.bin] -> Score: 0.0163505
+Fin lectura = 52
+Evaluando [huellasbin/huella786.bin] -> Score: 0.017555
+Fin lectura = 79
+Evaluando [huellasbin/huella787.bin] -> Score: 0.0182789
+Fin lectura = 72
+Evaluando [huellasbin/huella788.bin] -> Score: 0.0166999
+Fin lectura = 69
+Evaluando [huellasbin/huella789.bin] -> Score: 0.0171642
+Fin lectura = 97
+Evaluando [huellasbin/huella78.bin] -> Score: 0.0161571
+Fin lectura = 68
+Evaluando [huellasbin/huella790.bin] -> Score: 0.0192571
+Fin lectura = 84
+Evaluando [huellasbin/huella791.bin] -> Score: 0.0160029
+Fin lectura = 77
+Evaluando [huellasbin/huella792.bin] -> Score: 0.0152513
+Fin lectura = 36
+Evaluando [huellasbin/huella793.bin] -> Score: 0.0199862
+Fin lectura = 36
+Evaluando [huellasbin/huella794.bin] -> Score: 0.0177255
+Fin lectura = 52
+Evaluando [huellasbin/huella795.bin] -> Score: 0.0182715
+Fin lectura = 61
+Evaluando [huellasbin/huella796.bin] -> Score: 0.0158214
+Fin lectura = 62
+Evaluando [huellasbin/huella797.bin] -> Score: 0.0165742
+Fin lectura = 58
+Evaluando [huellasbin/huella798.bin] -> Score: 0.0165977
+Fin lectura = 60
+Evaluando [huellasbin/huella799.bin] -> Score: 0.0213344
+Fin lectura = 88
+Evaluando [huellasbin/huella79.bin] -> Score: 0.0241418
+Fin lectura = 47
+Evaluando [huellasbin/huella7.bin] -> Score: 0.0163515
+Fin lectura = 52
+Evaluando [huellasbin/huella800.bin] -> Score: 0.0191764
+Fin lectura = 37
+Evaluando [huellasbin/huella801.bin] -> Score: 0.016957
+Fin lectura = 38
+Evaluando [huellasbin/huella802.bin] -> Score: 0.0157029
+Fin lectura = 67
+Evaluando [huellasbin/huella803.bin] -> Score: 0.0172501
+Fin lectura = 68
+Evaluando [huellasbin/huella804.bin] -> Score: 0.0197266
+Fin lectura = 60
+Evaluando [huellasbin/huella805.bin] -> Score: 0.0161773
+Fin lectura = 78
+Evaluando [huellasbin/huella806.bin] -> Score: 0.0160684
+Fin lectura = 54
+Evaluando [huellasbin/huella807.bin] -> Score: 0.0177834
+Fin lectura = 48
+Evaluando [huellasbin/huella808.bin] -> Score: 0.017132
+Fin lectura = 43
+Evaluando [huellasbin/huella809.bin] -> Score: 0.0161056
+Fin lectura = 80
+Evaluando [huellasbin/huella80.bin] -> Score: 0.0159475
+Fin lectura = 42
+Evaluando [huellasbin/huella810.bin] -> Score: 0.0175515
+Fin lectura = 44
+Evaluando [huellasbin/huella811.bin] -> Score: 0.0173408
+Fin lectura = 59
+Evaluando [huellasbin/huella812.bin] -> Score: 0.0206812
+Fin lectura = 60
+Evaluando [huellasbin/huella813.bin] -> Score: 0.0166339
+Fin lectura = 58
+Evaluando [huellasbin/huella814.bin] -> Score: 0.01837
+Fin lectura = 73
+Evaluando [huellasbin/huella815.bin] -> Score: 0.0162331
+Fin lectura = 67
+Evaluando [huellasbin/huella816.bin] -> Score: 0.0166426
+Fin lectura = 43
+Evaluando [huellasbin/huella817.bin] -> Score: 0.0181485
+Fin lectura = 48
+Evaluando [huellasbin/huella818.bin] -> Score: 0.018429
+Fin lectura = 46
+Evaluando [huellasbin/huella819.bin] -> Score: 0.0218589
+Fin lectura = 57
+Evaluando [huellasbin/huella81.bin] -> Score: 0.0159501
+Fin lectura = 66
+Evaluando [huellasbin/huella820.bin] -> Score: 0.01485
+Fin lectura = 53
+Evaluando [huellasbin/huella821.bin] -> Score: 0.0149948
+Fin lectura = 66
+Evaluando [huellasbin/huella822.bin] -> Score: 0.0172214
+Fin lectura = 63
+Evaluando [huellasbin/huella823.bin] -> Score: 0.0179013
+Fin lectura = 37
+Evaluando [huellasbin/huella824.bin] -> Score: 0.0228936
+Fin lectura = 38
+Evaluando [huellasbin/huella825.bin] -> Score: 0.020238
+Fin lectura = 61
+Evaluando [huellasbin/huella826.bin] -> Score: 0.0163615
+Fin lectura = 66
+Evaluando [huellasbin/huella827.bin] -> Score: 0.0160603
+Fin lectura = 53
+Evaluando [huellasbin/huella828.bin] -> Score: 0.0166894
+Fin lectura = 58
+Evaluando [huellasbin/huella829.bin] -> Score: 0.0166506
+Fin lectura = 62
+Evaluando [huellasbin/huella82.bin] -> Score: 0.0156198
+Fin lectura = 63
+Evaluando [huellasbin/huella830.bin] -> Score: 0.016627
+Fin lectura = 58
+Evaluando [huellasbin/huella831.bin] -> Score: 0.0182419
+Fin lectura = 57
+Evaluando [huellasbin/huella832.bin] -> Score: 0.0168483
+Fin lectura = 60
+Evaluando [huellasbin/huella833.bin] -> Score: 0.0168522
+Fin lectura = 57
+Evaluando [huellasbin/huella834.bin] -> Score: 0.0181466
+Fin lectura = 56
+Evaluando [huellasbin/huella835.bin] -> Score: 0.0166172
+Fin lectura = 48
+Evaluando [huellasbin/huella836.bin] -> Score: 0.0189189
+Fin lectura = 55
+Evaluando [huellasbin/huella837.bin] -> Score: 0.019096
+Fin lectura = 51
+Evaluando [huellasbin/huella838.bin] -> Score: 0.0202367
+Fin lectura = 59
+Evaluando [huellasbin/huella839.bin] -> Score: 0.0220757
+Fin lectura = 39
+Evaluando [huellasbin/huella83.bin] -> Score: 0.0160109
+Fin lectura = 48
+Evaluando [huellasbin/huella840.bin] -> Score: 0.0174185
+Fin lectura = 44
+Evaluando [huellasbin/huella841.bin] -> Score: 0.0191685
+Fin lectura = 59
+Evaluando [huellasbin/huella842.bin] -> Score: 0.0211741
+Fin lectura = 52
+Evaluando [huellasbin/huella843.bin] -> Score: 0.0172549
+Fin lectura = 46
+Evaluando [huellasbin/huella844.bin] -> Score: 0.0183574
+Fin lectura = 61
+Evaluando [huellasbin/huella845.bin] -> Score: 0.0175392
+Fin lectura = 59
+Evaluando [huellasbin/huella846.bin] -> Score: 0.0165119
+Fin lectura = 76
+Evaluando [huellasbin/huella847.bin] -> Score: 0.0165572
+Fin lectura = 85
+Evaluando [huellasbin/huella848.bin] -> Score: 0.0159594
+Fin lectura = 67
+Evaluando [huellasbin/huella849.bin] -> Score: 0.0159917
+Fin lectura = 40
+Evaluando [huellasbin/huella84.bin] -> Score: 0.0168913
+Fin lectura = 57
+Evaluando [huellasbin/huella850.bin] -> Score: 0.0158314
+Fin lectura = 46
+Evaluando [huellasbin/huella851.bin] -> Score: 0.0180353
+Fin lectura = 50
+Evaluando [huellasbin/huella852.bin] -> Score: 0.0167025
+Fin lectura = 55
+Evaluando [huellasbin/huella853.bin] -> Score: 0.0158048
+Fin lectura = 63
+Evaluando [huellasbin/huella854.bin] -> Score: 0.0157175
+Fin lectura = 80
+Evaluando [huellasbin/huella855.bin] -> Score: 0.0198084
+Fin lectura = 70
+Evaluando [huellasbin/huella856.bin] -> Score: 0.0215451
+Fin lectura = 52
+Evaluando [huellasbin/huella857.bin] -> Score: 0.0213035
+Fin lectura = 49
+Evaluando [huellasbin/huella858.bin] -> Score: 0.0222892
+Fin lectura = 57
+Evaluando [huellasbin/huella859.bin] -> Score: 0.0169165
+Fin lectura = 55
+Evaluando [huellasbin/huella85.bin] -> Score: 0.0169697
+Fin lectura = 45
+Evaluando [huellasbin/huella860.bin] -> Score: 0.0156353
+Fin lectura = 36
+Evaluando [huellasbin/huella861.bin] -> Score: 0.0135272
+Fin lectura = 45
+Evaluando [huellasbin/huella862.bin] -> Score: 0.0158326
+Fin lectura = 47
+Evaluando [huellasbin/huella863.bin] -> Score: 0.0152384
+Fin lectura = 66
+Evaluando [huellasbin/huella864.bin] -> Score: 0.0195067
+Fin lectura = 60
+Evaluando [huellasbin/huella865.bin] -> Score: 0.0162783
+Fin lectura = 54
+Evaluando [huellasbin/huella866.bin] -> Score: 0.0179581
+Fin lectura = 61
+Evaluando [huellasbin/huella867.bin] -> Score: 0.0192376
+Fin lectura = 68
+Evaluando [huellasbin/huella868.bin] -> Score: 0.0186665
+Fin lectura = 56
+Evaluando [huellasbin/huella869.bin] -> Score: 0.0157545
+Fin lectura = 52
+Evaluando [huellasbin/huella86.bin] -> Score: 0.0160816
+Fin lectura = 57
+Evaluando [huellasbin/huella870.bin] -> Score: 0.0167375
+Fin lectura = 38
+Evaluando [huellasbin/huella871.bin] -> Score: 0.0186784
+Fin lectura = 42
+Evaluando [huellasbin/huella872.bin] -> Score: 0.020411
+Fin lectura = 39
+Evaluando [huellasbin/huella873.bin] -> Score: 0.0167568
+Fin lectura = 41
+Evaluando [huellasbin/huella874.bin] -> Score: 0.0225296
+Fin lectura = 55
+Evaluando [huellasbin/huella875.bin] -> Score: 0.0162452
+Fin lectura = 56
+Evaluando [huellasbin/huella876.bin] -> Score: 0.0180458
+Fin lectura = 50
+Evaluando [huellasbin/huella877.bin] -> Score: 0.0209643
+Fin lectura = 48
+Evaluando [huellasbin/huella878.bin] -> Score: 0.0166234
+Fin lectura = 59
+Evaluando [huellasbin/huella879.bin] -> Score: 0.0163502
+Fin lectura = 38
+Evaluando [huellasbin/huella87.bin] -> Score: 0.0184439
+Fin lectura = 60
+Evaluando [huellasbin/huella880.bin] -> Score: 0.0180188
+Fin lectura = 44
+Evaluando [huellasbin/huella881.bin] -> Score: 0.0152915
+Fin lectura = 51
+Evaluando [huellasbin/huella882.bin] -> Score: 0.0159445
+Fin lectura = 75
+Evaluando [huellasbin/huella883.bin] -> Score: 0.0211256
+Fin lectura = 65
+Evaluando [huellasbin/huella884.bin] -> Score: 0.0207193
+Fin lectura = 64
+Evaluando [huellasbin/huella885.bin] -> Score: 0.0176934
+Fin lectura = 58
+Evaluando [huellasbin/huella886.bin] -> Score: 0.018512
+Fin lectura = 90
+Evaluando [huellasbin/huella887.bin] -> Score: 0.0153931
+Fin lectura = 79
+Evaluando [huellasbin/huella888.bin] -> Score: 0.015622
+Fin lectura = 67
+Evaluando [huellasbin/huella889.bin] -> Score: 0.0175233
+Fin lectura = 39
+Evaluando [huellasbin/huella88.bin] -> Score: 0.0180442
+Fin lectura = 68
+Evaluando [huellasbin/huella890.bin] -> Score: 0.0190042
+Fin lectura = 64
+Evaluando [huellasbin/huella891.bin] -> Score: 0.016881
+Fin lectura = 66
+Evaluando [huellasbin/huella892.bin] -> Score: 0.0169004
+Fin lectura = 72
+Evaluando [huellasbin/huella893.bin] -> Score: 0.0189637
+Fin lectura = 59
+Evaluando [huellasbin/huella894.bin] -> Score: 0.0163793
+Fin lectura = 63
+Evaluando [huellasbin/huella895.bin] -> Score: 0.016338
+Fin lectura = 51
+Evaluando [huellasbin/huella896.bin] -> Score: 0.0156712
+Fin lectura = 47
+Evaluando [huellasbin/huella897.bin] -> Score: 0.0159504
+Fin lectura = 44
+Evaluando [huellasbin/huella898.bin] -> Score: 0.01716
+Fin lectura = 39
+Evaluando [huellasbin/huella899.bin] -> Score: 0.0165178
+Fin lectura = 55
+Evaluando [huellasbin/huella89.bin] -> Score: 0.0200194
+Fin lectura = 66
+Evaluando [huellasbin/huella8.bin] -> Score: 0.0164875
+Fin lectura = 92
+Evaluando [huellasbin/huella900.bin] -> Score: 0.0162944
+Fin lectura = 118
+Evaluando [huellasbin/huella901.bin] -> Score: 0.0171283
+Fin lectura = 40
+Evaluando [huellasbin/huella902.bin] -> Score: 0.0169479
+Fin lectura = 48
+Evaluando [huellasbin/huella903.bin] -> Score: 0.016942
+Fin lectura = 56
+Evaluando [huellasbin/huella904.bin] -> Score: 0.0210497
+Fin lectura = 51
+Evaluando [huellasbin/huella905.bin] -> Score: 0.0158096
+Fin lectura = 60
+Evaluando [huellasbin/huella906.bin] -> Score: 0.0152648
+Fin lectura = 58
+Evaluando [huellasbin/huella907.bin] -> Score: 0.0156389
+Fin lectura = 49
+Evaluando [huellasbin/huella908.bin] -> Score: 0.0148503
+Fin lectura = 40
+Evaluando [huellasbin/huella909.bin] -> Score: 0.019411
+Fin lectura = 51
+Evaluando [huellasbin/huella90.bin] -> Score: 0.0176784
+Fin lectura = 41
+Evaluando [huellasbin/huella910.bin] -> Score: 0.0155223
+Fin lectura = 63
+Evaluando [huellasbin/huella911.bin] -> Score: 0.0211789
+Fin lectura = 80
+Evaluando [huellasbin/huella912.bin] -> Score: 0.016328
+Fin lectura = 85
+Evaluando [huellasbin/huella913.bin] -> Score: 0.0163809
+Fin lectura = 48
+Evaluando [huellasbin/huella914.bin] -> Score: 0.0192091
+Fin lectura = 55
+Evaluando [huellasbin/huella915.bin] -> Score: 0.019231
+Fin lectura = 65
+Evaluando [huellasbin/huella916.bin] -> Score: 0.0176372
+Fin lectura = 67
+Evaluando [huellasbin/huella917.bin] -> Score: 0.016313
+Fin lectura = 56
+Evaluando [huellasbin/huella918.bin] -> Score: 0.0207618
+Fin lectura = 46
+Evaluando [huellasbin/huella919.bin] -> Score: 0.0150184
+Fin lectura = 34
+Evaluando [huellasbin/huella91.bin] -> Score: 0.0178402
+Fin lectura = 47
+Evaluando [huellasbin/huella920.bin] -> Score: 0.0166814
+Fin lectura = 76
+Evaluando [huellasbin/huella921.bin] -> Score: 0.0208692
+Fin lectura = 78
+Evaluando [huellasbin/huella922.bin] -> Score: 0.0220399
+Fin lectura = 52
+Evaluando [huellasbin/huella923.bin] -> Score: 0.01608
+Fin lectura = 57
+Evaluando [huellasbin/huella924.bin] -> Score: 0.0172579
+Fin lectura = 62
+Evaluando [huellasbin/huella925.bin] -> Score: 0.0165425
+Fin lectura = 57
+Evaluando [huellasbin/huella926.bin] -> Score: 0.0194195
+Fin lectura = 51
+Evaluando [huellasbin/huella927.bin] -> Score: 0.0192396
+Fin lectura = 63
+Evaluando [huellasbin/huella928.bin] -> Score: 0.0174864
+Fin lectura = 44
+Evaluando [huellasbin/huella929.bin] -> Score: 0.020098
+Fin lectura = 43
+Evaluando [huellasbin/huella92.bin] -> Score: 0.0180905
+Fin lectura = 44
+Evaluando [huellasbin/huella930.bin] -> Score: 0.0204971
+Fin lectura = 48
+Evaluando [huellasbin/huella931.bin] -> Score: 0.0184735
+Fin lectura = 72
+Evaluando [huellasbin/huella932.bin] -> Score: 0.0181919
+Fin lectura = 75
+Evaluando [huellasbin/huella933.bin] -> Score: 0.0181382
+Fin lectura = 48
+Evaluando [huellasbin/huella934.bin] -> Score: 0.0152597
+Fin lectura = 65
+Evaluando [huellasbin/huella935.bin] -> Score: 0.0161697
+Fin lectura = 47
+Evaluando [huellasbin/huella936.bin] -> Score: 0.020605
+Fin lectura = 45
+Evaluando [huellasbin/huella937.bin] -> Score: 0.0208712
+Fin lectura = 48
+Evaluando [huellasbin/huella938.bin] -> Score: 0.0218174
+Fin lectura = 45
+Evaluando [huellasbin/huella939.bin] -> Score: 0.0206936
+Fin lectura = 72
+Evaluando [huellasbin/huella93.bin] -> Score: 0.0179375
+Fin lectura = 35
+Evaluando [huellasbin/huella940.bin] -> Score: 0.0203732
+Fin lectura = 41
+Evaluando [huellasbin/huella941.bin] -> Score: 0.0187888
+Fin lectura = 58
+Evaluando [huellasbin/huella942.bin] -> Score: 0.0179344
+Fin lectura = 62
+Evaluando [huellasbin/huella943.bin] -> Score: 0.0169794
+Fin lectura = 48
+Evaluando [huellasbin/huella944.bin] -> Score: 0.0153249
+Fin lectura = 41
+Evaluando [huellasbin/huella945.bin] -> Score: 0.0167303
+Fin lectura = 61
+Evaluando [huellasbin/huella946.bin] -> Score: 0.0190887
+Fin lectura = 61
+Evaluando [huellasbin/huella947.bin] -> Score: 0.0179666
+Fin lectura = 60
+Evaluando [huellasbin/huella948.bin] -> Score: 0.018239
+Fin lectura = 55
+Evaluando [huellasbin/huella949.bin] -> Score: 0.016379
+Fin lectura = 69
+Evaluando [huellasbin/huella94.bin] -> Score: 0.0159409
+Fin lectura = 64
+Evaluando [huellasbin/huella950.bin] -> Score: 0.0192827
+Fin lectura = 65
+Evaluando [huellasbin/huella951.bin] -> Score: 0.0224964
+Fin lectura = 56
+Evaluando [huellasbin/huella952.bin] -> Score: 0.016093
+Fin lectura = 63
+Evaluando [huellasbin/huella953.bin] -> Score: 0.0176139
+Fin lectura = 66
+Evaluando [huellasbin/huella954.bin] -> Score: 0.0156951
+Fin lectura = 60
+Evaluando [huellasbin/huella955.bin] -> Score: 0.0172884
+Fin lectura = 57
+Evaluando [huellasbin/huella956.bin] -> Score: 0.0183895
+Fin lectura = 65
+Evaluando [huellasbin/huella957.bin] -> Score: 0.0182701
+Fin lectura = 63
+Evaluando [huellasbin/huella958.bin] -> Score: 0.0184069
+Fin lectura = 63
+Evaluando [huellasbin/huella959.bin] -> Score: 0.0177586
+Fin lectura = 64
+Evaluando [huellasbin/huella95.bin] -> Score: 0.0165607
+Fin lectura = 55
+Evaluando [huellasbin/huella960.bin] -> Score: 0.0173468
+Fin lectura = 55
+Evaluando [huellasbin/huella961.bin] -> Score: 0.0198529
+Fin lectura = 38
+Evaluando [huellasbin/huella962.bin] -> Score: 0.0159601
+Fin lectura = 39
+Evaluando [huellasbin/huella963.bin] -> Score: 0.0164899
+Fin lectura = 53
+Evaluando [huellasbin/huella964.bin] -> Score: 0.0180316
+Fin lectura = 42
+Evaluando [huellasbin/huella965.bin] -> Score: 0.0177541
+Fin lectura = 70
+Evaluando [huellasbin/huella966.bin] -> Score: 0.0200418
+Fin lectura = 77
+Evaluando [huellasbin/huella967.bin] -> Score: 0.0201034
+Fin lectura = 89
+Evaluando [huellasbin/huella968.bin] -> Score: 0.0156608
+Fin lectura = 104
+Evaluando [huellasbin/huella969.bin] -> Score: 0.0162465
+Fin lectura = 62
+Evaluando [huellasbin/huella96.bin] -> Score: 0.0167908
+Fin lectura = 56
+Evaluando [huellasbin/huella970.bin] -> Score: 0.0182685
+Fin lectura = 61
+Evaluando [huellasbin/huella971.bin] -> Score: 0.0176615
+Fin lectura = 70
+Evaluando [huellasbin/huella972.bin] -> Score: 0.0185255
+Fin lectura = 65
+Evaluando [huellasbin/huella973.bin] -> Score: 0.0183331
+Fin lectura = 38
+Evaluando [huellasbin/huella974.bin] -> Score: 0.017662
+Fin lectura = 42
+Evaluando [huellasbin/huella975.bin] -> Score: 0.0176571
+Fin lectura = 93
+Evaluando [huellasbin/huella976.bin] -> Score: 0.0170965
+Fin lectura = 95
+Evaluando [huellasbin/huella977.bin] -> Score: 0.0155344
+Fin lectura = 46
+Evaluando [huellasbin/huella978.bin] -> Score: 0.0182843
+Fin lectura = 56
+Evaluando [huellasbin/huella979.bin] -> Score: 0.020508
+Fin lectura = 60
+Evaluando [huellasbin/huella97.bin] -> Score: 0.0171638
+Fin lectura = 71
+Evaluando [huellasbin/huella980.bin] -> Score: 0.0161479
+Fin lectura = 59
+Evaluando [huellasbin/huella981.bin] -> Score: 0.0173932
+Fin lectura = 63
+Evaluando [huellasbin/huella982.bin] -> Score: 0.0211677
+Fin lectura = 69
+Evaluando [huellasbin/huella983.bin] -> Score: 0.020748
+Fin lectura = 42
+Evaluando [huellasbin/huella984.bin] -> Score: 0.017947
+Fin lectura = 44
+Evaluando [huellasbin/huella985.bin] -> Score: 0.0236667
+Fin lectura = 48
+Evaluando [huellasbin/huella986.bin] -> Score: 0.0158538
+Fin lectura = 57
+Evaluando [huellasbin/huella987.bin] -> Score: 0.0184698
+Fin lectura = 59
+Evaluando [huellasbin/huella988.bin] -> Score: 0.0197334
+Fin lectura = 63
+Evaluando [huellasbin/huella989.bin] -> Score: 0.016766
+Fin lectura = 69
+Evaluando [huellasbin/huella98.bin] -> Score: 0.0223047
+Fin lectura = 49
+Evaluando [huellasbin/huella990.bin] -> Score: 0.016064
+Fin lectura = 45
+Evaluando [huellasbin/huella991.bin] -> Score: 0.0193586
+Fin lectura = 45
+Evaluando [huellasbin/huella992.bin] -> Score: 0.0173496
+Fin lectura = 47
+Evaluando [huellasbin/huella993.bin] -> Score: 0.0167008
+Fin lectura = 53
+Evaluando [huellasbin/huella994.bin] -> Score: 0.0166845
+Fin lectura = 50
+Evaluando [huellasbin/huella995.bin] -> Score: 0.0156496
+Fin lectura = 50
+Evaluando [huellasbin/huella996.bin] -> Score: 0.0168417
+Fin lectura = 50
+Evaluando [huellasbin/huella997.bin] -> Score: 0.0173312
+Fin lectura = 56
+Evaluando [huellasbin/huella998.bin] -> Score: 0.0169771
+Fin lectura = 64
+Evaluando [huellasbin/huella999.bin] -> Score: 0.0177092
+Fin lectura = 69
+Evaluando [huellasbin/huella99.bin] -> Score: 0.0219605
+Fin lectura = 36
+Evaluando [huellasbin/huella9.bin] -> Score: 0.016688
+------------------------------------------
+MATCH ENCONTRADO!
+Coincide con: huellasbin/huella1.bin
+Score maximo: 0.997226
+Tiempo de validacion de huella: 16488.8 ms

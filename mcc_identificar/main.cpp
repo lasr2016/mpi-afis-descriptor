@@ -2,6 +2,7 @@
 #include <fstream>
 #include <string>
 #include <vector>
+#include <chrono>   // Necesario para medir el tiempo
 #include "MCC.h"
 
 using namespace std;
@@ -74,7 +75,8 @@ int main(int argc, char* argv[]) {
     double umbral = 0.35;
 
     cout << "Comparando huella de entrada contra " << total_huellas << " descriptores..." << endl;
-
+ // ---- Medición del tiempo de lectura de disco a memoria ----
+    auto inicio_lectura = chrono::high_resolution_clock::now();
     string ruta_bin;
     for (int i = 0; i < total_huellas; i++) {
         if (!(lista >> ruta_bin)) break;
@@ -87,13 +89,15 @@ int main(int argc, char* argv[]) {
 
         // Matching inmediato
         double score = probe.match(candidata);
-        cout << "Evaluando [" << ruta_bin << "] -> Score: " << score << endl;
+        //cout << "Evaluando [" << ruta_bin << "] -> Score: " << score << endl;
 
         if (score > max_score) {
             max_score = score;
             mejor_coincidencia = ruta_bin;
         }
     }
+   
+    auto fin_lectura = chrono::high_resolution_clock::now();
     lista.close();
 
     // ========================================================
@@ -109,5 +113,7 @@ int main(int argc, char* argv[]) {
         cout << "Mejor score obtenido: " << max_score << endl;
     }
 
+    chrono::duration<double, milli> tiempoLectura = fin_lectura - inicio_lectura;
+    cout << "Tiempo de validacion de huella: " << tiempoLectura.count() << " ms" << endl;
     return 0;
 }

@@ -1,0 +1,7 @@
+Numero Minucias: 74
+Comparando huella de entrada contra 1000 descriptores...
+------------------------------------------
+MATCH ENCONTRADO!
+Coincide con: huellasbin/huella1.bin
+Score maximo: 0.997226
+Tiempo de validacion de huella: 4923.08 ms
