@@ -9,7 +9,7 @@ CDIR =../commons/
 CFLAGS= -Wall -O3 -std=c++11 -I$(IDIR)
 
 # Sources and Common clases sources
-SOURCES= main.cpp MCC.cpp Cylinder.cpp
+SOURCES= main_medicion_total.cpp MCC.cpp Cylinder.cpp
 CSOURCES= $(CDIR)Fingerprint.cpp $(CDIR)Functions.cpp $(CDIR)Minutia.cpp $(CDIR)GrahamScanConvexHull.cpp $(CDIR)File19794.cpp $(CDIR)Munkres.cpp
 
 # Objects
@@ -17,7 +17,7 @@ OBJECTS=$(SOURCES:.cpp=.o)
 COBJECTS=$(CSOURCES:.cpp=.o)
 
 # Name of the executable
-EXECUTABLE=mcc_identificar
+EXECUTABLE=mcc_medir_total
 
 all: $(SOURCES) $(CSOURCES) $(EXECUTABLE)
 
