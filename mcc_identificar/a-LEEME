@@ -5,8 +5,8 @@ Makefile modificado, tener ojo, compila a mcc_matching_omp_13k
 se copio y pego la huella10.xyt en la carpeta principal para realizar pruebas
 
 Archivos creados:
-mcc_matching_omp.cpp
-mcc_matching_omp_13k.cpp
+main_omp.cpp
+main_omp_13k.cpp
 
 Ejecutables creados:
 mcc_matching_omp
