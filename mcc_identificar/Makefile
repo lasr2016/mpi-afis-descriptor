@@ -1,29 +1,31 @@
-# The compiler to use.
+# The compiler to use
 CC = g++
 
-# Directories for Includes and Common clases
-IDIR =../include/
-CDIR =../commons/
+# Directories for Includes and Common classes
+IDIR = ../include/
+CDIR = ../commons/
 
-# Compiler options
-CFLAGS= -Wall -O3 -std=c++11 -I$(IDIR)
+# Compiler options: agregamos -fopenmp para habilitar OpenMP en los .o
+CFLAGS = -Wall -O3 -std=c++11 -fopenmp -I$(IDIR)
 
-# Sources and Common clases sources
-SOURCES= main_medicion_total.cpp MCC.cpp Cylinder.cpp
-CSOURCES= $(CDIR)Fingerprint.cpp $(CDIR)Functions.cpp $(CDIR)Minutia.cpp $(CDIR)GrahamScanConvexHull.cpp $(CDIR)File19794.cpp $(CDIR)Munkres.cpp
+# Flags de enlazado (linker)
+LDFLAGS = -fopenmp
+
+# Sources and Common classes sources
+SOURCES = main_omp_13k.cpp MCC.cpp Cylinder.cpp
+CSOURCES = $(CDIR)Fingerprint.cpp $(CDIR)Functions.cpp $(CDIR)Minutia.cpp $(CDIR)GrahamScanConvexHull.cpp $(CDIR)File19794.cpp $(CDIR)Munkres.cpp
 
 # Objects
-OBJECTS=$(SOURCES:.cpp=.o)
-COBJECTS=$(CSOURCES:.cpp=.o)
+OBJECTS = $(SOURCES:.cpp=.o)
+COBJECTS = $(CSOURCES:.cpp=.o)
 
 # Name of the executable
-EXECUTABLE=mcc_medir_total
+EXECUTABLE = mcc_matching_omp_13k
 
-all: $(SOURCES) $(CSOURCES) $(EXECUTABLE)
-
+all: $(EXECUTABLE)
 
 $(EXECUTABLE): $(OBJECTS) $(COBJECTS)
-	$(CC) $(CFLAGS) $(OBJECTS) $(COBJECTS) -o $@
+	$(CC) $(CFLAGS) $(OBJECTS) $(COBJECTS) $(LDFLAGS) -o $@
 
 .cpp.o:
 	$(CC) -c $(CFLAGS) $< -o $@

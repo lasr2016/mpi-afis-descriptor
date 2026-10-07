@@ -1,0 +1,34 @@
+ULTIMAS MODIFICACIONES
+
+Makefile modificado, tener ojo, compila a mcc_matching_omp_13k
+
+se copio y pego la huella10.xyt en la carpeta principal para realizar pruebas
+
+Archivos creados:
+mcc_matching_omp.cpp
+mcc_matching_omp_13k.cpp
+
+Ejecutables creados:
+mcc_matching_omp
+mcc_matching_omp_13k
+
+
+NOTAS: ambos imprimen tiempos en pantallas, pero la version 13k hace warm-up
+además de comparar contra las mil huellas 13 veces.
+
+la version normal hace match 1:1000 una sola vez.
+
+===============================
+===============================
+
+COMANDOS:
+
+./mcc_matching_omp huella2.xyt lista2.txt -N 8 -C LSSR
+
+./mcc_matching_omp_13k huella10.xyt lista2.txt -N 8 -C LSSR
+
+
+
+mcc_matching_omp puede recibir la cantidad de nucleos a utilizar:
+
+OMP_NUM_THREADS=1 ./mcc_matching_omp huella10.xyt lista2.txt -N 8 -C LSSR
