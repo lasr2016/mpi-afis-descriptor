@@ -59,18 +59,20 @@ int main(int argc, char* argv[]) {
         cerr << "Error: No se pudo leer el archivo o está vacío: " << ruta_entrada << endl;
         return 1;
     }
-
+    
     chrono::duration<double, milli> tiempoLectura = fin_lectura - inicio_lectura;
     cout << "Tiempo de lectura de disco a memoria: " << tiempoLectura.count() << " ms" << endl;
     // ---- Fin medición lectura ----
 
+    
     cout << "Calculando descriptor MCC para: " << ruta_entrada << "..." << endl;
 
     // 2. Instanciar y transformar a cilindros 3D
+    
+    // ---- Medición del tiempo de initialize() ----
     auto inicio_init = chrono::high_resolution_clock::now();
     MCC huella(matrizMinucias);
 
-    // ---- Medición del tiempo de initialize() ----
     huella.initialize();
     auto fin_init = chrono::high_resolution_clock::now();
 
