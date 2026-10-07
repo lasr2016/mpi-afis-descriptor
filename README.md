@@ -22,3 +22,8 @@ Example executions:
 mpirun -np 2 ./genericMatching -a mcc -k 10 -s m -t template_files.dat -i input_files.dat -N 8 -C LSSR
 mpirun -np 2 ./DPDDFF -a jiang,mcc -k 10 -s r -r 10 -t template_files_F1.dat,template_files_F2.dat -i input_files_F1.dat,input_files_F2.dat -v DD
 ```
+
+## Estructura del repositorio
+
+- `commons/`: Módulos compartidos para estructuras de datos biométricas (huellas, minucias, algoritmos geométricos y de asignación).
+- `experimental/`: Ramas y módulos dedicados a pruebas de matching paralelo, cálculo de métricas y evaluación de rendimiento.
